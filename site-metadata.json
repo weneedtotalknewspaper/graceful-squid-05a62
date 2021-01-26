@@ -1,57 +1,44 @@
 {
     "description": "A \"do it yourself\" theme for Stackbit",
-    "layout": "boxed",
+    "layout": "full-width",
     "style": "classic",
-    "palette": "green",
+    "palette": "red",
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "DIY",
+        "title": "We Need To Talk Newspaper",
         "logo": "images/classic/logo.svg",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
         "primary_nav_links": [
-            {
-                "label": "Features",
-                "url": "/features",
-                "style": "link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "style": "link"
-            },
             {
                 "label": "About",
                 "url": "/about",
                 "style": "link"
             },
             {
-                "label": "Blog",
+                "label": "Our Team",
+                "url": "/our-team",
+                "style": "link"
+            },
+            {
+                "label": "Editions",
+                "url": "/editions",
+                "style": "link"
+            },
+            {
+                "label": "News",
                 "url": "/blog",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            }
-        ],
-        "has_secondary_nav": true,
-        "secondary_nav_links": [
-            {
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
-            },
-            {
-                "label": "Get Started",
-                "url": "/pricing",
-                "style": "primary"
             }
         ],
         "has_anncmnt": true,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
+        "anncmnt_content": "Check out our newest edition **[here](/editions)**!",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
@@ -69,27 +56,42 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "Our Team",
+                "url": "/our-team",
                 "style": "link"
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_title": "Blog",
+        "secondary_nav_title": "News",
         "secondary_nav_links": [
             {
-                "label": "News",
-                "url": "/blog/category/news",
+                "label": "History",
+                "url": "/blog/category/history",
                 "style": "link"
             },
             {
-                "label": "General",
-                "url": "/blog/category/general",
+                "label": "Current Events",
+                "url": "/blog/category/current-events",
                 "style": "link"
             },
             {
-                "label": "Tutorials",
-                "url": "/blog/category/tutorials",
+                "label": "Spotlight",
+                "url": "/blog/category/spotlight",
+                "style": "link"
+            },
+            {
+                "label": "Opinion",
+                "url": "/blog/category/opinion",
+                "style": "link"
+            },
+            {
+                "label": "Art",
+                "url": "/blog/category/art",
+                "style": "link"
+            },
+            {
+                "label": "Call To Action",
+                "url": "/blog/category/call-to-action",
                 "style": "link"
             }
         ],
@@ -110,8 +112,17 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "Facebook",
+                "url": "https://www.facebook.com/weneedtotalknewspaper",
+                "style": "link",
+                "has_icon": true,
+                "icon": "facebook",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/wnttnewspaper",
                 "style": "link",
                 "has_icon": true,
                 "icon": "twitter",
@@ -119,38 +130,11 @@
                 "new_window": true
             },
             {
-                "label": "GitHub",
-                "url": "https://github.com/",
+                "label": "Instagram",
+                "url": "https://instagram.com/weneedtotalknewspaper",
                 "style": "link",
                 "has_icon": true,
-                "icon": "github",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "linkedin",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "YouTube",
-                "url": "https://www.youtube.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "youtube",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "Vimeo",
-                "url": "https://vimeo.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "vimeo",
+                "icon": "instagram",
                 "icon_position": "center",
                 "new_window": true
             }
