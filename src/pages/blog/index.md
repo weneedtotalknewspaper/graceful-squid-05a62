@@ -1,13 +1,10 @@
 ---
-title: Blog
+title: News
 sections:
   - type: hero_section
-    title: Blog
-    subtitle: The optional subtitle
+    title: News
     align: center
-    padding_top: medium
-    padding_bottom: none
-    background_color: none
+    background_color: secondary
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true

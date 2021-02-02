@@ -2,14 +2,20 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Get in touch
-    subtitle: >-
-      Have a question? Send us a note using the form below and we will be in touch soon.
+    title: Contact
     align: center
-    padding_top: medium
-    padding_bottom: medium
-    background_color: none
+    background_color: secondary
   - type: form_section
+    content: >-
+      ### Get in touch!
+      
+      If you have a story you'd like us to cover, feedback to give, or just a general inquiry, let us know!
+      
+      ### Join us on social media!
+      
+      We're on [Facebook](https://www.facebook.com/weneedtotalknewspaper), [Twitter](https://twitter.com/wnttnewspaper), and [Instagram](https://www.instagram.com/weneedtotalknewspaper/). Requests to join our Telegram channel are also open!
+    content_align: left
+    form_position: right
     form_width: fifty
     form_layout: inline
     enable_card: true
@@ -31,8 +37,11 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - General questions
+          - General inquiries
+          - Pitching a story
           - Joining our team
+          - Telegram channel
+          - Feedback
           - Error on the site
           - Other
         is_required: true
@@ -49,8 +58,5 @@ sections:
         is_required: true
     submit_label: Submit
     align_vert: top
-    padding_top: medium
-    padding_bottom: medium
-    background_color: primary
 template: advanced
 ---

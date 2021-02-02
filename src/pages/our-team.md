@@ -3,7 +3,6 @@ title: Our Team
 sections:
   - type: hero_section
     title: Our Team
-    subtitle: Who We Are
     align: center
     background_color: secondary
   - type: grid_section
@@ -128,7 +127,7 @@ sections:
       - title: Deetya Adikhari
         subtitle: Staff Writer
         title_align: center
-        image: images/team/filler.jpg
+        image: images/team/deetya-adikhari.jpg
         image_position: top
         actions:
           - label: Read More
@@ -141,7 +140,7 @@ sections:
       - title: Abey Bekalu
         subtitle: Staff Writer
         title_align: center
-        image: images/team/filler.jpg
+        image: images/team/abey-bekalu.jpg
         image_position: top
         actions:
           - label: Read More

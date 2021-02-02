@@ -22,6 +22,11 @@
                 "style": "link"
             },
             {
+                "label": "Apply",
+                "url": "/apply",
+                "style": "link"
+            },
+            {
                 "label": "Editions",
                 "url": "/editions",
                 "style": "link"
@@ -58,6 +63,11 @@
             {
                 "label": "Our Team",
                 "url": "/our-team",
+                "style": "link"
+            },
+            {
+                "label": "Apply",
+                "url": "/apply",
                 "style": "link"
             }
         ],
