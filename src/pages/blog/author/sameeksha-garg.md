@@ -5,6 +5,12 @@ sections:
     title: Sameeksha Garg
     subtitle: Staff Writer
     align: center
+    image: /images/team/sameeksha-garg.jpg
+    image_alt: Sameeksha Garg
+    media_position: left
+    media_width: fourty
+    content: >-
+      yeet
     padding_top: medium
     padding_bottom: none
     background_color: none

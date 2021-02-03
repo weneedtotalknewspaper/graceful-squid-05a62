@@ -3,7 +3,6 @@ title: Call To Action
 sections:
   - type: hero_section
     title: Call To Action
-    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: none

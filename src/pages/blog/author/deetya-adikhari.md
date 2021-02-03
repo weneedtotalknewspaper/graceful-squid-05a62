@@ -5,6 +5,12 @@ sections:
     title: Deetya Adikhari
     subtitle: Staff Writer
     align: center
+    image: /images/team/deetya-adikhari.jpg
+    image_alt: Deetya Adikhari
+    media_position: left
+    media_width: fourty
+    content: >-
+      Deetya Adhikari (she/her) is a 15-year-old living in the United States. She has interests in a variety of topics/subjects such as philosophy, writing, and coding. She also is a black belt in taekwondo and loves to play guitar. You could find Deetya reading books, playing video games, or binging a tv show in her free time.
     padding_top: medium
     padding_bottom: none
     background_color: none

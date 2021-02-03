@@ -5,6 +5,12 @@ sections:
     title: Jyotsna Bisariya
     subtitle: Art Editor
     align: center
+    image: /images/team/jyotsna-bisariya.jpg
+    image_alt: Jyotsna Bisariya
+    media_position: left
+    media_width: fourty
+    content: >-
+      Jyotsna Bisariya is the Art's Editor of We Need To Talk  .She lives in India and studies in 12 th grade at  Sanskriti School,New Delhi. She is 17 years old and  In her free time, she loves reading, drawing, dancing etc.She also like sports like swimming and basketball. She thinks making art is a great way to express your feelings and relieve stress.She wants the whole world to know that making art or even just doodling can help you in many ways.
     padding_top: medium
     padding_bottom: none
     background_color: none

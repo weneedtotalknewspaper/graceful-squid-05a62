@@ -8,17 +8,16 @@ sections:
   - type: features_section
     features:
       - title: Current Edition
-        subtitle: ''
         content: >-
           Our monthly issues aim to encourage student activism all over the
           world and provide a platform for high schoolers to have their voices
           heard
-        image: images/editions/edition-dec2020.jpg
+        image: images/editions/edition-jan2021.jpg
         media_position: right
         media_width: fifty
         actions:
           - label: Read the latest edition
-            url: lorem-ipsum
+            url: https://drive.google.com/file/d/1fV_njhEy9STxDhC9CI8QYXQTfLvZ4mW-/view?usp=sharing
             style: link
             has_icon: true
             icon: arrow-right

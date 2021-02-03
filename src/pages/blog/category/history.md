@@ -3,7 +3,6 @@ title: History
 sections:
   - type: hero_section
     title: History
-    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: none

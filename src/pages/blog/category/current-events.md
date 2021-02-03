@@ -3,7 +3,6 @@ title: Current Events
 sections:
   - type: hero_section
     title: Current Events
-    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: none

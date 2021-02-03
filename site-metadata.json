@@ -53,7 +53,7 @@
         "logo": "images/classic/logo.svg",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
-        "primary_nav_title": "Company",
+        "primary_nav_title": "Organization",
         "primary_nav_links": [
             {
                 "label": "About",
@@ -106,16 +106,16 @@
             }
         ],
         "has_tertiary_nav": true,
-        "tertiary_nav_title": "Legal",
+        "tertiary_nav_title": "Get in Touch",
         "tertiary_nav_links": [
             {
-                "label": "Terms & Conditions",
-                "url": "/terms-conditions",
+                "label": "Contact",
+                "url": "/contact",
                 "style": "link"
             },
             {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
+                "label": "Linktree",
+                "url": "https://linktr.ee/weneedtotalknewspaper",
                 "style": "link"
             }
         ],
@@ -149,7 +149,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Stackbit. All rights reserved. Site maintained by Anna Hsu."
     },
     "title": "Stackbit DIY Theme"
 }

@@ -3,7 +3,6 @@ title: Spotlight
 sections:
   - type: hero_section
     title: Spotlight
-    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: none

@@ -5,6 +5,12 @@ sections:
     title: Abey Bekalu
     subtitle: Staff Writer
     align: center
+    image: /images/team/abey-bekalu.jpg
+    image_alt: Abey Bekalu
+    media_position: left
+    media_width: fourty
+    content: >-
+      Abey Bekalu (He/Him) is a 17 year old high schooler from Addis Ababa, Ethiopia. He is very interested in philosophy, music, photography, art and science. But his biggest passion is writing, and he aspires to be a successful fantasy author and would like to use his works to raise social and philosophical issues that aren't given the attention they deserve.
     padding_top: medium
     padding_bottom: none
     background_color: none

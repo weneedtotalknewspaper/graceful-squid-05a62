@@ -5,6 +5,12 @@ sections:
     title: Bruktawit Fisseha
     subtitle: History Editor
     align: center
+    image: /images/team/bruktawit-fisseha.jpg
+    image_alt: Bruktawit Fisseha
+    media_position: left
+    media_width: fourty
+    content: >-
+      Bruktawit Messele Fisseha, most commonly known as Bruk, is the history editor of We Need to Talk. She's a seventeen year old from Addis Ababa, Ethiopia who enjoys writing, and has had experience with creative writing on several social media platforms before.
     padding_top: medium
     padding_bottom: none
     background_color: none

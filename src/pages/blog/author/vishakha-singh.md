@@ -5,6 +5,12 @@ sections:
     title: Vishakha Singh
     subtitle: Opinion Editor
     align: center
+    image: /images/team/vishakha-singh.jpg
+    image_alt: Vishakha Singh
+    media_position: left
+    media_width: fourty
+    content: >-
+      Vishakha Singh is the Opinions Editor of this newspaper. She is a sophomore at Timpany CBSE High School and aspires to be a fantasy/fiction author. She fell in love with writing not too long ago and has since won literary competition both in and out of her school and written poems, songs, articles, essays and stories. Besides being a writer, she is also a storyteller and a third-degree black belt in Karate. Other than writing, she loves arts, reading, enjoys horse-riding and tennis and is a big fan of K-pop. In her free time, you will catch her dancing and studying about a controversial topic from the news.
     padding_top: medium
     padding_bottom: none
     background_color: none

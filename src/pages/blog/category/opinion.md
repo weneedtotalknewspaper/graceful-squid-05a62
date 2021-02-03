@@ -3,7 +3,6 @@ title: Opinion
 sections:
   - type: hero_section
     title: Opinion
-    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: none

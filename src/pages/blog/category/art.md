@@ -3,7 +3,6 @@ title: Art
 sections:
   - type: hero_section
     title: Art
-    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: none

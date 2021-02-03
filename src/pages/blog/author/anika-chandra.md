@@ -1,16 +1,16 @@
 ---
-title: Wajeeha Khan
+title: Anika Chandra
 sections:
   - type: hero_section
-    title: Wajeeha Khan
-    subtitle: Graphic Designer & Staff Writer
+    title: Anika Chandra
+    subtitle: Graphic Designer
     align: center
-    image: /images/team/wajeeha-khan.jpg
-    image_alt: Wajeeha Khan
+    image: /images/team/anika-chandra.jpg
+    image_alt: Anika Chandra
     media_position: left
     media_width: fourty
     content: >-
-      Wajeeha Khan is one of We Need To Talk’s graphic designer. She lives in Islamabad and is currently a senior at International School of Islamabad. Wajeeha thinks its very important to express different opinions and holds activism very highly in her life. She also loves playing sports including soccer, basketball and volleyball.
+      yeet
     padding_top: medium
     padding_bottom: none
     background_color: none
@@ -18,7 +18,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    author: src/data/team/wajeeha-khan.yaml
+    author: src/data/team/anika-chandra.yaml
     show_date: true
     show_categories: true
     show_author: true

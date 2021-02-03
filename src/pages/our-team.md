@@ -112,13 +112,39 @@ sections:
             icon_position: right
         actions_align: center
       - title: Aneri Shah
-        subtitle: Graphic Designer
+        subtitle: Head of Graphic Designer
         title_align: center
         image: images/team/aneri-shah.jpg
         image_position: top
         actions:
           - label: Read More
             url: '/blog/author/aneri-shah'
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        actions_align: center
+      - title: Anika Chandra
+        subtitle: Graphic Designer
+        title_align: center
+        image: images/team/filler.jpg
+        image_position: top
+        actions:
+          - label: Read More
+            url: '/blog/author/anika-chandra'
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        actions_align: center
+      - title: Sophia Hsu
+        subtitle: Graphic Designer
+        title_align: center
+        image: images/team/filler.jpg
+        image_position: top
+        actions:
+          - label: Read More
+            url: '/blog/author/sophia-hsu'
             style: link
             has_icon: true
             icon: arrow-right
@@ -262,7 +288,7 @@ sections:
     content: Applications for staff writers and graphic designers are open and evaluated on a rolling basis.
     actions:
       - label: Apply Now
-        url: /pricing
+        url: /apply
         style: primary
     align: center
     padding_top: medium
