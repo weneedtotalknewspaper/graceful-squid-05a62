@@ -10,7 +10,7 @@ sections:
     media_position: left
     media_width: fourty
     content: >-
-      yeet
+      Sameeksha Garg (she/her) is a 16 year old high schooler living in the United States. She has a variety of interests including computer science, singing, and painting. In her free time, she’s found reading, listening to music, and spending time with family and friends. She joined We Need To Talk as a staff writer to shed light on overlooked social justice issues and spread awareness about them.
     padding_top: medium
     padding_bottom: none
     background_color: none

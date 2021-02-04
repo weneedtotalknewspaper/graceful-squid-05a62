@@ -1,11 +1,10 @@
 ---
 title: The Transfer of Power
+subtitle: President-elect Joe Biden pictured with Vice President-elect Kamala Harris.
 date: '2020-12-30'
 author: src/data/team/barsha-parajuli.yaml
 categories:
   - src/data/categories/current-events.yaml
-excerpt: >-
-  Joseph Robinette Biden Jr. has been officially declared the 46th president of the United States by the Electoral College.
 thumb_image: https://i.imgur.com/pfeE4xO.png
 image: https://i.imgur.com/pfeE4xO.png
 image_position: right

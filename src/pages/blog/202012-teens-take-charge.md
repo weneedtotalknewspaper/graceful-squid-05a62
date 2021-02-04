@@ -7,8 +7,6 @@ date: '2020-12-30'
 author: src/data/team/rachel-lewis.yaml
 categories:
   - src/data/categories/spotlight.yaml
-excerpt: >-
-  Standing at a booth at the annual New York City (NYC) high school fair for middle schoolers from the Bronx, Nina Worley and a friend were surprised by the amount and type of questions that students and parents were asking them.
 thumb_image: https://i.imgur.com/DGcXtju.jpg
 image: https://i.imgur.com/DGcXtju.jpg
 image_position: right

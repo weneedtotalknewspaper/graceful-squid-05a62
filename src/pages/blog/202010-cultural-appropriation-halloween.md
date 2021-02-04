@@ -7,11 +7,6 @@ date: '2020-10-31'
 author: src/data/team/vishakha-singh.yaml
 categories:
   - src/data/categories/opinion.yaml
-excerpt: >-
-  For a long time, the topic of cultural appropriation in any way or form has
-  been hotly debated. There is a range of opinions from “Cultural Appropriation
-  doesn’t exist” to “It is blown out of proportion” to “It is unacceptable” and
-  everything in between.
 thumb_image: images/blog/oct-2020/cultural-appropriation.jpg
 image: images/blog/oct-2020/cultural-appropriation.jpg
 image_position: right

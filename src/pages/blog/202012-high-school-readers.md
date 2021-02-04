@@ -6,8 +6,6 @@ date: '2020-12-30'
 author: src/data/team/vishakha-singh.yaml
 categories:
   - src/data/categories/opinion.yaml
-excerpt: >-
-  asdf
 thumb_image: https://i.imgur.com/7zD7sd0.jpg
 image: https://i.imgur.com/7zD7sd0.jpg
 image_position: right

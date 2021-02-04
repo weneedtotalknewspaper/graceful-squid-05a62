@@ -10,7 +10,7 @@ sections:
     media_position: left
     media_width: fourty
     content: >-
-      yeet
+      Sophia (she/her) is a graphic designer for We Need to Talk. She is a 14 year old from the United States. She likes to draw, listen to music, and watch japanese animation movies. In her free time, she likes taking walks outdoors to observe her surroundings and relax. She joined We Need to Talk because she believes that it is important for people to be able to express their opinions, by writing or even through art.
     padding_top: medium
     padding_bottom: none
     background_color: none

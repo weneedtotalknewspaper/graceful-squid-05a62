@@ -5,8 +5,6 @@ date: '2020-12-30'
 author: src/data/team/deeksha-chitale.yaml
 categories:
   - src/data/categories/art.yaml
-excerpt: >-
-  asdf
 thumb_image: https://i.imgur.com/6nO2wgm.png
 image: https://i.imgur.com/6nO2wgm.png
 image_position: right

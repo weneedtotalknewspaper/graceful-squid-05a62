@@ -6,8 +6,6 @@ date: '2020-10-31'
 author: src/data/team/barsha-parajuli.yaml
 categories:
   - src/data/categories/current-events.yaml
-excerpt: >-
-  On Sept. 2, 2020, police body camera footage, written reports, and autopsy reports were released regarding the death of a black man named Daniel Prude; he died on Mar. 23, 2020 in Rochester, New York.
 thumb_image: images/blog/oct-2020/police-officer.jpg
 image: images/blog/oct-2020/police-officer.jpg
 image_position: right

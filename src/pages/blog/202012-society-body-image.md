@@ -5,8 +5,6 @@ date: '2020-12-30'
 author: src/data/team/sanjana-mittal.yaml
 categories:
   - src/data/categories/opinion.yaml
-excerpt: >-
-  asdf
 thumb_image: https://i.imgur.com/6rCV1Zq.png
 image: https://i.imgur.com/6rCV1Zq.png
 image_position: right

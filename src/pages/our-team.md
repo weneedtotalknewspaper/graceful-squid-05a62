@@ -140,7 +140,7 @@ sections:
       - title: Sophia Hsu
         subtitle: Graphic Designer
         title_align: center
-        image: images/team/filler.jpg
+        image: images/team/sophia-hsu.jpg
         image_position: top
         actions:
           - label: Read More
@@ -205,7 +205,7 @@ sections:
       - title: Sameeksha Garg
         subtitle: Staff Writer
         title_align: center
-        image: images/team/filler.jpg
+        image: images/team/sameeksha-garg.jpg
         image_position: top
         actions:
           - label: Read More

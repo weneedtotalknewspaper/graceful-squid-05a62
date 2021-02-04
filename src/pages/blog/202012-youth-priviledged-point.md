@@ -1,13 +1,12 @@
 ---
-title: 'Today''s Youth Are Indeed Privileged, But Isn''t That The Point?'
-subtitle: 'And no, it is not because of that damn phone!'
+title: Today's Youth Are Indeed Privileged, But Isn't That The Point?
+subtitle: And no, it is not because of that damn phone!
 date: '2020-12-30'
 author: src/data/team/vishakha-singh.yaml
 categories:
   - src/data/categories/opinion.yaml
-excerpt: asdf
-thumb_image: 'https://i.imgur.com/ILZho5Z.png'
-image: 'https://i.imgur.com/ILZho5Z.png'
+thumb_image: https://i.imgur.com/ILZho5Z.png
+image: https://i.imgur.com/ILZho5Z.png
 image_position: right
 template: post
 ---

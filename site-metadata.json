@@ -32,7 +32,7 @@
                 "style": "link"
             },
             {
-                "label": "News",
+                "label": "Articles",
                 "url": "/blog",
                 "style": "link"
             },
@@ -72,7 +72,7 @@
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_title": "News",
+        "secondary_nav_title": "Articles",
         "secondary_nav_links": [
             {
                 "label": "History",
