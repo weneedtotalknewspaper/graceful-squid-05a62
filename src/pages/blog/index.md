@@ -1,8 +1,8 @@
 ---
-title: News
+title: Articles
 sections:
   - type: hero_section
-    title: News
+    title: Articles
     align: center
     background_color: secondary
   - type: blog_feed_section

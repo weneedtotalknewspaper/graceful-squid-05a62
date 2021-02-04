@@ -42,17 +42,17 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Check out our December edition!
+      - title: Check out our January edition!
         content: >-
-          Featuring articles like "The Transfer of Power" and "Body Perception"
+          Featuring an article on the Capitol riots.
         actions:
           - label: Learn More
-            url: /style-guide
+            url: https://drive.google.com/file/d/1fV_njhEy9STxDhC9CI8QYXQTfLvZ4mW-/view?usp=sharing
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/dec-2020-promo.png
+        image: images/promo/jan-2021-promo.png
         media_position: right
         media_width: fifty
     feature_padding_vert: large
