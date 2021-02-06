@@ -127,7 +127,7 @@ sections:
       - title: Anika Chandra
         subtitle: Graphic Designer
         title_align: center
-        image: images/team/filler.jpg
+        image: images/team/anika-chandra.jpg
         image_position: top
         actions:
           - label: Read More
