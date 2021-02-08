@@ -12,8 +12,8 @@ sections:
       - label: Apply
         url: /apply
         style: secondary
-    image: images/classic/hero.png
-    image_alt: Hero section placeholder image
+    image: images/herologo.jpg
+    image_alt: WNTT
     media_position: left
     media_width: fifty
     align: left

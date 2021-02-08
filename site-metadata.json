@@ -1,5 +1,5 @@
 {
-    "description": "A \"do it yourself\" theme for Stackbit",
+    "description": "The official website for the first global student-run activism focused newspaper.",
     "layout": "full-width",
     "style": "classic",
     "palette": "red",
@@ -7,7 +7,7 @@
     "base_font": "serif",
     "header": {
         "title": "We Need To Talk Newspaper",
-        "logo": "images/classic/logo.svg",
+        "logo": "images/toplogo.jpg",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
         "primary_nav_links": [
@@ -50,8 +50,8 @@
         "anncmnt_id": "new-features"
     },
     "footer": {
-        "logo": "images/classic/logo.svg",
-        "logo_alt": "DIY logo",
+        "logo": "images/toplogo.jpg",
+        "logo_alt": "WNTT logo",
         "has_primary_nav": true,
         "primary_nav_title": "Organization",
         "primary_nav_links": [
@@ -149,7 +149,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. Site maintained by Anna Hsu."
+        "content": "Site maintained by Anna Hsu."
     },
-    "title": "Stackbit DIY Theme"
+    "title": "We Need To Talk Newspaper"
 }
