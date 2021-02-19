@@ -16,7 +16,7 @@ sections:
           provides news for high-schoolers, by high-schoolers. We cover topics
           that are usually ignored by mainstream media, while providing the
           younger generation with a platform to make their voices heard.
-        image: images/Screen Shot 2021-01-20 at 8.03.36 PM.png
+        image: images/about-1.png
         media_position: right
         media_width: fifty
       - title: International Writers
@@ -26,7 +26,7 @@ sections:
           bring student activism to the next level. Our writers are from all
           over the United States, Ethiopia, India, Pakistan, South Africa, and
           more. 
-        image: images/Screenshot 2020-12-27 113247.jpg
+        image: images/about-2.jpg
         media_position: left
         media_width: fifty
   - type: grid_section

@@ -12,7 +12,7 @@ sections:
       - label: Apply
         url: /apply
         style: secondary
-    image: images/herologo.jpg
+    image: images/logos/herologo.jpg
     image_alt: WNTT
     media_position: left
     media_width: fifty
