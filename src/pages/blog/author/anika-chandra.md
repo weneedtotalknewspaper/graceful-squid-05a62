@@ -3,7 +3,8 @@ title: Anika Chandra
 sections:
   - type: hero_section
     title: Anika Chandra
-    subtitle: Graphic Designer
+    subtitle: >-
+      Graphic Designer: Virginia, USA
     align: center
     image: /images/team/anika-chandra.jpg
     image_alt: Anika Chandra

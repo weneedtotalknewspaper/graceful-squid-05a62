@@ -3,7 +3,8 @@ title: Bruktawit Fisseha
 sections:
   - type: hero_section
     title: Bruktawit Fisseha
-    subtitle: History Editor
+    subtitle: >- 
+      History Editor: Addis Ababa, Ethiopia
     align: center
     image: /images/team/bruktawit-fisseha.jpg
     image_alt: Bruktawit Fisseha

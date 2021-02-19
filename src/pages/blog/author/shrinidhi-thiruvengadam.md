@@ -3,7 +3,8 @@ title: Shrinidhi Thiruvengadam
 sections:
   - type: hero_section
     title: Shrinidhi Thiruvengadam
-    subtitle: Staff Writer
+    subtitle: >-
+      Staff Writer: Texas, USA
     align: center
     image: /images/team/shrinidhi-thiruvengadam.jpg
     image_alt: Shrinidhi Thiruvengadam

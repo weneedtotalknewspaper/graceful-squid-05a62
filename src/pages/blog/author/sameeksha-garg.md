@@ -3,7 +3,8 @@ title: Sameeksha Garg
 sections:
   - type: hero_section
     title: Sameeksha Garg
-    subtitle: Staff Writer
+    subtitle: >-
+      Staff Writer: Virginia, USA
     align: center
     image: /images/team/sameeksha-garg.jpg
     image_alt: Sameeksha Garg

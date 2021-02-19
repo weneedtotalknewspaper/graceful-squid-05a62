@@ -3,7 +3,8 @@ title: Savyasachi Singh
 sections:
   - type: hero_section
     title: Savyasachi Singh
-    subtitle: Staff Writer
+    subtitle: >-
+      Staff Writer: Visakhapatnam, India
     align: center
     image: /images/team/savyasachi-singh.jpg
     image_alt: Savyasachi Singh

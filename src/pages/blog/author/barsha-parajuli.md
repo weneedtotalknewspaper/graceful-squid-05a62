@@ -3,7 +3,8 @@ title: Barsha Parajuli
 sections:
   - type: hero_section
     title: Barsha Parajuli
-    subtitle: Current Events Editor
+    subtitle: >-
+      Current Events Editor: Virginia, USA
     align: center
     image: /images/team/barsha-parajuli.jpg
     image_alt: Barsha Parajuli

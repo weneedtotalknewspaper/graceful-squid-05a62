@@ -3,7 +3,8 @@ title: Saranya Singh
 sections:
   - type: hero_section
     title: Saranya Singh
-    subtitle: Editor-In-Chief
+    subtitle: >-
+      Editor-In-Chief: California, USA
     align: center
     image: /images/team/saranya-singh.jpg
     image_alt: Saranya Singh

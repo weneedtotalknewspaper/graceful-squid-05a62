@@ -3,7 +3,8 @@ title: Ishika Jain
 sections:
   - type: hero_section
     title: Ishika Jain
-    subtitle: Staff Writer
+    subtitle: >-
+      Head of Social Media: Delhi, India
     align: center
     image: /images/team/ishika-jain.jpg
     image_alt: Ishika Jain

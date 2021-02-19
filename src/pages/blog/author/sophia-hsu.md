@@ -3,7 +3,8 @@ title: Sophia Hsu
 sections:
   - type: hero_section
     title: Sophia Hsu
-    subtitle: Graphic Designer
+    subtitle: >-
+      Graphic Designer: Virginia, USA
     align: center
     image: /images/team/sophia-hsu.jpg
     image_alt: Sophia Hsu

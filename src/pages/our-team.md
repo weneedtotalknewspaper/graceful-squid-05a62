@@ -150,6 +150,32 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
+      - title: Ishika Jain
+        subtitle: Head of Social Media
+        title_align: center
+        image: images/team/ishika-jain.jpg
+        image_position: top
+        actions:
+          - label: Read More
+            url: '/blog/author/ishika-jain'
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        actions_align: center
+      - title: Chandrasnata Mohanty
+        subtitle: Head of Social Media
+        title_align: center
+        image: images/team/chandrasnata-mohanty.jpg
+        image_position: top
+        actions:
+          - label: Read More
+            url: '/blog/author/chandrasnata-mohanty'
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        actions_align: center
       - title: Deetya Adikhari
         subtitle: Staff Writer
         title_align: center
@@ -215,19 +241,6 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-      - title: Ishika Jain
-        subtitle: Staff Writer
-        title_align: center
-        image: images/team/ishika-jain.jpg
-        image_position: top
-        actions:
-          - label: Read More
-            url: '/blog/author/ishika-jain'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
       - title: Sanjana Mittal
         subtitle: Staff Writer
         title_align: center
@@ -236,19 +249,6 @@ sections:
         actions:
           - label: Read More
             url: '/blog/author/sanjana-mittal'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
-      - title: Chandrasnata Mohanty
-        subtitle: Staff Writer
-        title_align: center
-        image: images/team/chandrasnata-mohanty.jpg
-        image_position: top
-        actions:
-          - label: Read More
-            url: '/blog/author/chandrasnata-mohanty'
             style: link
             has_icon: true
             icon: arrow-right

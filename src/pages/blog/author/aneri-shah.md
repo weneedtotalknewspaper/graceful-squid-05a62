@@ -3,7 +3,8 @@ title: Aneri Shah
 sections:
   - type: hero_section
     title: Aneri Shah
-    subtitle: Graphic Designer
+    subtitle: >-
+      Graphic Designer: Virginia, USA
     align: center
     image: /images/team/aneri-shah.jpg
     image_alt: Aneri Shah

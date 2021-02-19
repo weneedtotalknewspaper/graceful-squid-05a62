@@ -3,7 +3,8 @@ title: Vishakha Singh
 sections:
   - type: hero_section
     title: Vishakha Singh
-    subtitle: Opinion Editor
+    subtitle: >-
+      Opinion Editor: Visakhapatnam, India
     align: center
     image: /images/team/vishakha-singh.jpg
     image_alt: Vishakha Singh

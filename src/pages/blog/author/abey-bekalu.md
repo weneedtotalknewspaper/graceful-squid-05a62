@@ -3,7 +3,8 @@ title: Abey Bekalu
 sections:
   - type: hero_section
     title: Abey Bekalu
-    subtitle: Staff Writer
+    subtitle: >-
+      Staff Writer: Addis Ababa, Ethiopia
     align: center
     image: /images/team/abey-bekalu.jpg
     image_alt: Abey Bekalu

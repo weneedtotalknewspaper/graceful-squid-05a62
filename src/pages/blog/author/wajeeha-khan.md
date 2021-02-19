@@ -3,7 +3,8 @@ title: Wajeeha Khan
 sections:
   - type: hero_section
     title: Wajeeha Khan
-    subtitle: Graphic Designer & Staff Writer
+    subtitle: >-
+      Graphic Designer & Staff Writer: Islamabad, Pakistan
     align: center
     image: /images/team/wajeeha-khan.jpg
     image_alt: Wajeeha Khan

@@ -3,7 +3,8 @@ title: Sanjana Mittal
 sections:
   - type: hero_section
     title: Sanjana Mittal
-    subtitle: Staff Writer
+    subtitle: >-
+      Staff Writer: Texas, USA
     align: center
     image: /images/team/sanjana-mittal.jpg
     image_alt: Sanjana Mittal

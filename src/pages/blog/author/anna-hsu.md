@@ -3,7 +3,8 @@ title: Anna Hsu
 sections:
   - type: hero_section
     title: Anna Hsu
-    subtitle: Copy Editor & Head of IT
+    subtitle: >-
+      Copy Editor & Head of IT: Virginia, USA
     align: center
     image: /images/team/anna-hsu.jpg
     image_alt: Anna Hsu

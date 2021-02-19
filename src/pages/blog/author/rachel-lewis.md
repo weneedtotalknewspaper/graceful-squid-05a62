@@ -3,7 +3,8 @@ title: Rachel Lewis
 sections:
   - type: hero_section
     title: Rachel Lewis
-    subtitle: Spotlight Editor
+    subtitle: >-
+      Spotlight Editor: Virginia, USA
     align: center
     image: /images/team/rachel-lewis.jpg
     image_alt: Rachel Lewis

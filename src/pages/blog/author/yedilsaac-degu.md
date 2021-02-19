@@ -3,7 +3,8 @@ title: Yedilsaac Degu
 sections:
   - type: hero_section
     title: Yedilsaac Degu
-    subtitle: Staff Writer
+    subtitle: >-
+      Staff Writer: Addis Ababa, Ethiopia
     align: center
     image: /images/team/yedilsaac-degu.jpg
     image_alt: Yedilsaac Degu

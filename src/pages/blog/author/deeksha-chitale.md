@@ -3,7 +3,8 @@ title: Deeksha Chitale
 sections:
   - type: hero_section
     title: Deeksha Chitale
-    subtitle: Staff Writer
+    subtitle: >-
+      Staff Writer: Bangalore, India
     align: center
     image: /images/team/deeksha-chitale.jpg
     image_alt: Deeksha Chitale

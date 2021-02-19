@@ -3,7 +3,8 @@ title: Jyotsna Bisariya
 sections:
   - type: hero_section
     title: Jyotsna Bisariya
-    subtitle: Art Editor
+    subtitle: >- 
+      Art Editor: Delhi, India
     align: center
     image: /images/team/jyotsna-bisariya.jpg
     image_alt: Jyotsna Bisariya

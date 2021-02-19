@@ -3,7 +3,8 @@ title: Deetya Adikhari
 sections:
   - type: hero_section
     title: Deetya Adikhari
-    subtitle: Staff Writer
+    subtitle: >-
+      Staff Writer: Virginia, USA
     align: center
     image: /images/team/deetya-adikhari.jpg
     image_alt: Deetya Adikhari

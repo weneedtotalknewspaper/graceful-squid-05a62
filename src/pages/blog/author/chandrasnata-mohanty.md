@@ -3,7 +3,8 @@ title: Chandrasnata Mohanty
 sections:
   - type: hero_section
     title: Chandrasnata Mohanty
-    subtitle: Staff Writer
+    subtitle: >-
+      Head of Social Media: Vishakhapatnam, India
     align: center
     image: /images/team/chandrasnata-mohanty.jpg
     image_alt: Chandrasnata Mohanty
