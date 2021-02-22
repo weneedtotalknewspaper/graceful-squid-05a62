@@ -314,7 +314,7 @@ sections:
         content_align: left
         actions:
           - label: Read More
-            url: lorem-ipsum
+            url: /blog/author/wajeeha-khan/
             style: link
             has_icon: true
             icon: arrow-right
