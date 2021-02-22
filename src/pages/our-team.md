@@ -304,7 +304,7 @@ sections:
         content_align: left
         actions:
           - label: Read more
-            url: lorem-ipsum
+            url: /blog/author/anna-hsu/
             style: link
             has_icon: true
             icon: arrow-right
