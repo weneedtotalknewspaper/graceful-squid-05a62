@@ -137,18 +137,6 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-      - title: Sophia Hsu
-        subtitle: Graphic Designer
-        title_align: center
-        image_position: top
-        actions:
-          - label: Read More
-            url: /blog/author/sophia-hsu
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
       - title: Ishika Jain
         subtitle: Head of Social Media
         title_align: center
