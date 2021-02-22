@@ -72,6 +72,19 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
+      - title: Sanjana Mittal
+        subtitle: Opinion Editor
+        title_align: center
+        image: images/team/sanjana-mittal.jpg
+        image_position: top
+        actions:
+          - label: Read More
+            url: /blog/author/sanjana-mittal
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        actions_align: center
       - title: Jyotsna Bisariya
         subtitle: Art Editor
         title_align: center
@@ -197,19 +210,6 @@ sections:
         actions:
           - label: Read More
             url: /blog/author/sameeksha-garg
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
-      - title: Sanjana Mittal
-        subtitle: Opinion Editor
-        title_align: center
-        image: images/team/sanjana-mittal.jpg
-        image_position: top
-        actions:
-          - label: Read More
-            url: /blog/author/sanjana-mittal
             style: link
             has_icon: true
             icon: arrow-right
