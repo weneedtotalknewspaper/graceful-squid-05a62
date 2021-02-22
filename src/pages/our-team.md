@@ -289,7 +289,7 @@ sections:
     actions: []
     grid_items:
       - title: Sophia Hsu
-        subtitle: lorem-ipsum
+        subtitle: Graphic Designer
         title_align: left
         content: >-
           ## Lorem ipsum
