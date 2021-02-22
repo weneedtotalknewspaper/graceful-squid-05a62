@@ -298,7 +298,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/team/sophia-hsu.jpg
-      - title: lorem-ipsum
+      - title: Anna Hsu
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
