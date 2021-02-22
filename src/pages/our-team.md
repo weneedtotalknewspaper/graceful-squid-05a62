@@ -293,7 +293,7 @@ sections:
         title_align: center
         content: |
           Graphic Designer
-        content_align: left
+        content_align: right
         actions:
           - label: Read More
             url: lorem-ipsum
