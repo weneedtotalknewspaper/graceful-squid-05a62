@@ -203,7 +203,7 @@ sections:
             icon_position: right
         actions_align: center
       - title: Sanjana Mittal
-        subtitle: Staff Writer
+        subtitle: Opinion Editor
         title_align: center
         image: images/team/sanjana-mittal.jpg
         image_position: top
