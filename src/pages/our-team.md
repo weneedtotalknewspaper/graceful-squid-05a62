@@ -291,8 +291,6 @@ sections:
       - title: Sophia Hsu
         subtitle: Graphic Designer
         title_align: center
-        content: |
-          Graphic Designer
         content_align: right
         actions:
           - label: Read More
