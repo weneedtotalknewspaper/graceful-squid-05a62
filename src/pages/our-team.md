@@ -308,7 +308,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/team/anna-hsu.jpg
-      - title: lorem-ipsum
+      - title: Wajeeha Khan
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
