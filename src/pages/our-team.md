@@ -140,7 +140,6 @@ sections:
       - title: Sophia Hsu
         subtitle: Graphic Designer
         title_align: center
-        image: images/team/sophia-hsu.jpg
         image_position: top
         actions:
           - label: Read More
