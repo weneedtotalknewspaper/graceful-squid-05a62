@@ -309,7 +309,7 @@ sections:
         type: grid_item
         image: images/team/anna-hsu.jpg
       - title: Wajeeha Khan
-        subtitle: lorem-ipsum
+        subtitle: Graphic Designer & Staff Writer
         title_align: left
         content_align: left
         actions: []
