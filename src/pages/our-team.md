@@ -294,7 +294,7 @@ sections:
         content_align: right
         actions:
           - label: Read More
-            url: sophia-hsu
+            url: /blog/author/sophia-hsu/
             style: link
             has_icon: true
             icon: arrow-right
