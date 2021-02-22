@@ -300,7 +300,7 @@ sections:
         image: images/team/sophia-hsu.jpg
       - title: Anna Hsu
         subtitle: Copy Editor & Head of IT
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
