@@ -292,7 +292,7 @@ sections:
         subtitle: Graphic Designer
         title_align: center
         content: |
-          *
+          Graphic Designer
         content_align: left
         actions:
           - label: Read More
