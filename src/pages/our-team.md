@@ -254,18 +254,6 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-      - title: Savyasachi Singh
-        subtitle: Staff Writer
-        title_align: center
-        image_position: top
-        actions:
-          - label: Read More
-            url: /blog/author/savyasachi-singh
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
       - title: Shrinidhi Thiruvengadam
         subtitle: Staff Writer
         title_align: center
