@@ -299,7 +299,7 @@ sections:
         type: grid_item
         image: images/team/sophia-hsu.jpg
       - title: Anna Hsu
-        subtitle: lorem-ipsum
+        subtitle: Copy Editor & Head of IT
         title_align: left
         content_align: left
         actions: []
