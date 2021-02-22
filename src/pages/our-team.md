@@ -310,7 +310,7 @@ sections:
         image: images/team/anna-hsu.jpg
       - title: Wajeeha Khan
         subtitle: Graphic Designer & Staff Writer
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
