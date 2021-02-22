@@ -14,7 +14,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/saranya-singh'
+            url: /blog/author/saranya-singh
             style: link
             has_icon: true
             icon: arrow-right
@@ -27,7 +27,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/anna-hsu'
+            url: /blog/author/anna-hsu
             style: link
             has_icon: true
             icon: arrow-right
@@ -40,7 +40,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/bruktawit-fisseha'
+            url: /blog/author/bruktawit-fisseha
             style: link
             has_icon: true
             icon: arrow-right
@@ -53,7 +53,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/barsha-parajuli'
+            url: /blog/author/barsha-parajuli
             style: link
             has_icon: true
             icon: arrow-right
@@ -66,7 +66,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/rachel-lewis'
+            url: /blog/author/rachel-lewis
             style: link
             has_icon: true
             icon: arrow-right
@@ -79,7 +79,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/vishakha-singh'
+            url: /blog/author/vishakha-singh
             style: link
             has_icon: true
             icon: arrow-right
@@ -92,7 +92,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/jyotsna-bisariya'
+            url: /blog/author/jyotsna-bisariya
             style: link
             has_icon: true
             icon: arrow-right
@@ -105,7 +105,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/wajeeha-khan'
+            url: /blog/author/wajeeha-khan
             style: link
             has_icon: true
             icon: arrow-right
@@ -118,7 +118,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/aneri-shah'
+            url: /blog/author/aneri-shah
             style: link
             has_icon: true
             icon: arrow-right
@@ -131,7 +131,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/anika-chandra'
+            url: /blog/author/anika-chandra
             style: link
             has_icon: true
             icon: arrow-right
@@ -144,7 +144,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/sophia-hsu'
+            url: /blog/author/sophia-hsu
             style: link
             has_icon: true
             icon: arrow-right
@@ -157,7 +157,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/ishika-jain'
+            url: /blog/author/ishika-jain
             style: link
             has_icon: true
             icon: arrow-right
@@ -170,7 +170,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/chandrasnata-mohanty'
+            url: /blog/author/chandrasnata-mohanty
             style: link
             has_icon: true
             icon: arrow-right
@@ -183,7 +183,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/deetya-adikhari'
+            url: /blog/author/deetya-adikhari
             style: link
             has_icon: true
             icon: arrow-right
@@ -196,7 +196,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/abey-bekalu'
+            url: /blog/author/abey-bekalu
             style: link
             has_icon: true
             icon: arrow-right
@@ -209,7 +209,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/deeksha-chitale'
+            url: /blog/author/deeksha-chitale
             style: link
             has_icon: true
             icon: arrow-right
@@ -222,7 +222,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/yedilsaac-degu'
+            url: /blog/author/yedilsaac-degu
             style: link
             has_icon: true
             icon: arrow-right
@@ -235,7 +235,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/sameeksha-garg'
+            url: /blog/author/sameeksha-garg
             style: link
             has_icon: true
             icon: arrow-right
@@ -248,7 +248,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/sanjana-mittal'
+            url: /blog/author/sanjana-mittal
             style: link
             has_icon: true
             icon: arrow-right
@@ -257,11 +257,10 @@ sections:
       - title: Savyasachi Singh
         subtitle: Staff Writer
         title_align: center
-        image: images/team/savyasachi-singh.jpg
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/savyasachi-singh'
+            url: /blog/author/savyasachi-singh
             style: link
             has_icon: true
             icon: arrow-right
@@ -274,7 +273,7 @@ sections:
         image_position: top
         actions:
           - label: Read More
-            url: '/blog/author/shrinidhi-thiruvengadam'
+            url: /blog/author/shrinidhi-thiruvengadam
             style: link
             has_icon: true
             icon: arrow-right
@@ -285,7 +284,9 @@ sections:
     background_color: none
   - type: cta_section
     title: Join Our Team
-    content: Applications for staff writers and graphic designers are open and evaluated on a rolling basis.
+    content: >-
+      Applications for staff writers and graphic designers are open and
+      evaluated on a rolling basis.
     actions:
       - label: Apply Now
         url: /apply
