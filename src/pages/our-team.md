@@ -85,19 +85,6 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-      - title: Wajeeha Khan
-        subtitle: Graphic Designer & Staff Writer
-        title_align: center
-        image: images/team/wajeeha-khan.jpg
-        image_position: top
-        actions:
-          - label: Read More
-            url: /blog/author/wajeeha-khan
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
       - title: Aneri Shah
         subtitle: Head of Graphic Designer
         title_align: center
