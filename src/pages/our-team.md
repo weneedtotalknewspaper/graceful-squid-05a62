@@ -290,7 +290,7 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          Sophia Hsu
+          **Sophia Hsu**
         content_align: left
         actions: []
         actions_align: left
