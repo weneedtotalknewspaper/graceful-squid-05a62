@@ -294,7 +294,7 @@ sections:
         content_align: right
         actions:
           - label: Read More
-            url: lorem-ipsum
+            url: sophia-hsu
             style: link
             has_icon: true
             icon: arrow-right
