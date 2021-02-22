@@ -20,19 +20,6 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-      - title: Anna Hsu
-        subtitle: Copy Editor & Head of IT
-        title_align: center
-        image: images/team/anna-hsu.jpg
-        image_position: top
-        actions:
-          - label: Read More
-            url: /blog/author/anna-hsu
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
       - title: Bruktawit Fisseha
         subtitle: History Editor
         title_align: center
