@@ -29,10 +29,9 @@ When Gorman was 14 years old, she became a mentee in WriteGirl’s one-on-one me
 
 Caption: Amanda Gorman recites a poem at a WriteGirl event in 2013 at Skylight Books, an independent Los Angeles bookstore. 
 
-
 When Gorman was 16, she founded the nonprofit One Pen One Page, which publishes an online magazine by teenaged writers and has creative writing programs in Afghanistan and Kenya, as well as the U.S. Because of this and her other social work, Gorman was appointed the first National Youth Poet Laureate in 2017 as a sophomore in college. She has since traveled around the world to spread the power of poetry, speaking in schools about its importance to reading-resistant students and performing her own poems at a United Nations summit and a Boston orchestra’s 4th of July celebration. Of course, Gorman has had to balance her speaking engagements with her continued sociology coursework in pursuit of a bachelor’s degree. She graduated cum laude from Harvard University in the spring of 2020.
 
-![](https://imgur.com/a/NTwpO6Q)
+![](https://imgur.com/gallery/NTwpO6Q)
 
 Caption: Amanda Gorman performs a poem at a Mass Poetry event in 2018. Mass Poetry is a Massachusetts organization that supports diverse poets and aims to make poetry more accessible, including to underprivileged youth and seniors. Photo by Katherine Taylor.
 
