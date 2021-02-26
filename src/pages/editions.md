@@ -83,17 +83,9 @@ sections:
         image_has_padding: true
       - title: January 2021
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Featuring articles on the Capitol Riots, Biden's Inauguration, Art and
+          Activism, and more
         content_align: left
         actions: []
         actions_align: left
