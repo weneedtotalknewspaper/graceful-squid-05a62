@@ -51,7 +51,6 @@ sections:
             icon_position: center
         actions_align: left
       - title: Manging Editor
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
