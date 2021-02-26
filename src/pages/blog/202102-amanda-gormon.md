@@ -13,9 +13,4 @@ template: post
 author: src/data/team/rachel-lewis.yaml
 image: images/pink-squid.jpg
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+*   ![](https://imgur.com/gallery/NTwpO6Q)
