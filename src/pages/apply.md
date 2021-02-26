@@ -3,7 +3,10 @@ title: Apply
 sections:
   - type: hero_section
     title: Apply
-    subtitle: "Applications are now open! Submit your application by\_ All applicants must be between ages 13-18. All applications must be submitted in English."
+    subtitle: >-
+      Applications are now open! Submit your application by March 27th. All
+      applicants must be between ages 13-18. All applications must be submitted
+      in English.
     align: center
     background_color: secondary
   - type: grid_section
