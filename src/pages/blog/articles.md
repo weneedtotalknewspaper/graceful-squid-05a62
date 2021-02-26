@@ -14,6 +14,7 @@ image_position: top
 template: post
 author: src/data/team/rachel-lewis.yaml
 thumb_image: images/amandagormaninauguration.jpg
+image: images/enthusiastic-plankton.jpg
 ---
 ![](https://imgur.com/a/LrrQuMt)
 
