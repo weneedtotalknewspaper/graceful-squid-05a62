@@ -17,7 +17,8 @@ sections:
         media_width: fifty
         actions:
           - label: Read the latest edition
-            url: https://drive.google.com/file/d/1fV_njhEy9STxDhC9CI8QYXQTfLvZ4mW-/view?usp=sharing
+            url: >-
+              https://drive.google.com/file/d/1fV_njhEy9STxDhC9CI8QYXQTfLvZ4mW-/view?usp=sharing
             style: link
             has_icon: true
             icon: arrow-right
@@ -33,7 +34,8 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: https://drive.google.com/file/d/1FaZoYygJj4m20IQYVMvRW4ipeHWVmMoU/view?usp=sharing
+            url: >-
+              https://drive.google.com/file/d/1FaZoYygJj4m20IQYVMvRW4ipeHWVmMoU/view?usp=sharing
             style: link
             has_icon: true
             icon: arrow-right
@@ -51,7 +53,8 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: https://drive.google.com/file/d/1RcXIUBTWcP2gq5VRKhUFuEGj4bzdEUOV/view?usp=sharing
+            url: >-
+              https://drive.google.com/file/d/1RcXIUBTWcP2gq5VRKhUFuEGj4bzdEUOV/view?usp=sharing
             style: link
             has_icon: true
             icon: arrow-right
@@ -67,7 +70,8 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: https://drive.google.com/file/d/1fg8S3MoajzYmuLjkwBFvYe1Mw0hLyUqo/view?usp=sharing
+            url: >-
+              https://drive.google.com/file/d/1fg8S3MoajzYmuLjkwBFvYe1Mw0hLyUqo/view?usp=sharing
             style: link
             has_icon: true
             icon: arrow-right
@@ -77,6 +81,30 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        title_align: left
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
