@@ -64,7 +64,7 @@ sections:
           experience is recommended. 
         content_align: left
         actions:
-          - url: lorem-ipsum
+          - url: 'https://forms.gle/2rbnWX4RrXFrXNRg9'
             style: link
             has_icon: true
             icon: arrow-right
