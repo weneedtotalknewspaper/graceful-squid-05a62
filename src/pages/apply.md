@@ -81,7 +81,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Social Media Managers
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           Social Media Managers will be in charge of maintaining and updating
