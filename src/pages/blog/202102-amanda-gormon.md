@@ -11,6 +11,7 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/rachel-lewis.yaml
+image: images/pink-squid.jpg
 ---
 ## Lorem ipsum
 
