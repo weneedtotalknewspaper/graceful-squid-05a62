@@ -28,6 +28,31 @@ sections:
   - type: grid_section
     title: Past Editions
     grid_items:
+      - title: January 2021
+        title_align: left
+        content: >
+          Featuring articles on the Capitol Riots, Biden's Inauguration, Art and
+          Activism, and more
+        content_align: left
+        actions:
+          - url: >-
+              https://drive.google.com/file/d/1fV_njhEy9STxDhC9CI8QYXQTfLvZ4mW-/view
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: twenty-five
+        image_align: left
+        image_has_padding: true
+        type: grid_item
+        image: images/editions/edition-jan2021.jpg
       - title: December 2020
         title_align: left
         content: Featuring articles like “Body Perception” and “The Transfer of Power.”
@@ -81,31 +106,6 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: January 2021
-        title_align: left
-        content: >
-          Featuring articles on the Capitol Riots, Biden's Inauguration, Art and
-          Activism, and more
-        content_align: left
-        actions:
-          - url: >-
-              https://drive.google.com/file/d/1fV_njhEy9STxDhC9CI8QYXQTfLvZ4mW-/view
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: twenty-five
-        image_align: left
-        image_has_padding: true
-        type: grid_item
-        image: images/editions/edition-jan2021.jpg
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
