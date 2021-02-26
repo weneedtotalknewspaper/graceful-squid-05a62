@@ -88,7 +88,8 @@ sections:
           Activism, and more
         content_align: left
         actions:
-          - url: lorem-ipsum
+          - url: >-
+              https://drive.google.com/file/d/1fV_njhEy9STxDhC9CI8QYXQTfLvZ4mW-/view
             style: link
             has_icon: true
             icon: arrow-right
