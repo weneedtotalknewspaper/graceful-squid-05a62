@@ -52,17 +52,13 @@ sections:
         actions_align: left
       - title: Manging Editor
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Managing Editors include Managing Editor and Copy Editor. These
+          positions will work closely with the Editor-in-Chief to oversee the
+          publication of each edition. They will be in charge of editing several
+          articles, but will not be required to write articles of their own.
+          They are also required to attend 1 monthly meeting. Previous editing
+          experience is recommended.
         content_align: left
         actions: []
         actions_align: left
