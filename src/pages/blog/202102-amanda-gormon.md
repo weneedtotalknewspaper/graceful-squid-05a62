@@ -1,7 +1,14 @@
 ---
-title: Poetry As A Force To Move Forward
+title: lorem-ipsum
+subtitle: lorem-ipsum
+date: '2021-02-26'
+categories: []
+tags: []
 excerpt: lorem-ipsum
-template: page
+thumb_image_alt: lorem-ipsum
+image_alt: lorem-ipsum
+image_position: top
+template: post
 ---
 ## Lorem ipsum
 
