@@ -50,7 +50,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-      - title: lorem-ipsum
+      - title: Manging Editor
         subtitle: lorem-ipsum
         title_align: left
         content: >-
