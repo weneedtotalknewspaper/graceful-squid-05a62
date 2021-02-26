@@ -2,7 +2,11 @@
 title: Poetry as a Force for Forward Movement
 subtitle: >-
   National Youth Poet Laureate Amanda Gorman’s spoken word poem at Joe Biden’s
-  inauguration was the next step in her journey of lyrical activism
+  inauguration was the next step in her journey of lyrical activism Caption:
+  Amanda Gorman speaks about America’s potential to heal and strengthen itself
+  while pursuing nationwide social justice and trying to end the COVID-19
+  pandemic, among other crises, at Joe Biden’s Jan. 20 inauguration ceremony.
+  Photo by Patrick Semansky.
 date: '2021-02-26'
 categories:
   - src/data/categories/spotlight.yaml
