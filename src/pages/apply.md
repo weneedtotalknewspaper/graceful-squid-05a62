@@ -88,8 +88,7 @@ sections:
           our social media accounts, including Twitter, Instagram, and Facebook.
           It will require minimal Canva experience, along with knowledge of how
           to post on social media. To apply, you will be required to answer 2
-          essay questions in English. All applications must be between the ages
-          13-18.
+          essay questions in English. 
         content_align: left
         actions: []
         actions_align: left
