@@ -1,5 +1,5 @@
 ---
-title: Poetry as a force for forward movement
+title: Poetry as a Force for Forward Movement
 subtitle: lorem-ipsum
 date: '2021-02-26'
 categories:
