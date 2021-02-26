@@ -57,8 +57,11 @@ sections:
           positions will work closely with the Editor-in-Chief to oversee the
           publication of each edition. They will be in charge of editing several
           articles, but will not be required to write articles of their own.
-          They are also required to attend 1 monthly meeting. Previous editing
-          experience is recommended.
+          They are also required to attend 1 monthly meeting. To apply, you will
+          be required to answer two short essay questions and submit one piece
+          of writing that you have previously completed. This piece can be an
+          article, short story, or essay completed for school. Previous editing
+          experience is recommended. 
         content_align: left
         actions: []
         actions_align: left
