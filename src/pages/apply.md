@@ -100,17 +100,12 @@ sections:
         type: grid_item
       - title: Head of IT
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          The Head of IT will be required to maintain and update the website.
+          This will include posting the new edition and new articles each month.
+          Previous coding experience/experience with Stackbit and Jamstack is
+          recommended. To apply, applicants will be required to answer 2 essay
+          questions.
         content_align: left
         actions: []
         actions_align: left
