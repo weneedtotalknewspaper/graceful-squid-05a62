@@ -83,17 +83,13 @@ sections:
       - title: Social Media Managers
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Social Media Managers will be in charge of maintaining and updating
+          our social media accounts, including Twitter, Instagram, and Facebook.
+          It will require minimal Canva experience, along with knowledge of how
+          to post on social media. To apply, you will be required to answer 2
+          essay questions in English. All applications must be between the ages
+          13-18.
         content_align: left
         actions: []
         actions_align: left
