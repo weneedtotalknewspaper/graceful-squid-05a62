@@ -55,7 +55,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Check out our January edition!
+      - title: Check out our February edition!
         content: Featuring an article on the Capitol riots.
         actions:
           - label: Learn More
