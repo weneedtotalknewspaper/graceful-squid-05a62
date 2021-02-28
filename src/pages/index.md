@@ -56,7 +56,8 @@ sections:
   - type: features_section
     features:
       - title: Check out our February edition!
-        content: Featuring an article on the Capitol riots.
+        content: |
+          Featuring articles on Black History Month, Gamestop, and Amanda Gormon
         actions:
           - label: Learn More
             url: >-
