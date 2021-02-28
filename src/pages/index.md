@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: We Need To Talk.
     content: >-
-      The official website for the first global student-run activism focused newspaper.
+      The official website for the first global student-run activism focused
+      newspaper.
     actions:
       - label: About Us
         url: /about
@@ -55,16 +56,16 @@ sections:
   - type: features_section
     features:
       - title: Check out our January edition!
-        content: >-
-          Featuring an article on the Capitol riots.
+        content: Featuring an article on the Capitol riots.
         actions:
           - label: Learn More
-            url: https://drive.google.com/file/d/1fV_njhEy9STxDhC9CI8QYXQTfLvZ4mW-/view?usp=sharing
+            url: >-
+              https://drive.google.com/file/d/1fV_njhEy9STxDhC9CI8QYXQTfLvZ4mW-/view?usp=sharing
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/promo/jan-2021-promo.png
+        image: images/WNTT Feb edition.png
         media_position: right
         media_width: fifty
     feature_padding_vert: large
