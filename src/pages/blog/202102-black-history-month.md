@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Black History Month
 subtitle: lorem-ipsum
 date: '2021-03-01'
 categories: []
