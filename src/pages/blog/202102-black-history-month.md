@@ -11,6 +11,7 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/deeksha-chitale.yaml
+thumb_image: images/Black-History-Month-12x18-edit-4.jpg
 ---
 Each year, a number of countries dedicate a month to the recognition and celebration of the contribution made to our society by the African diaspora. Black History Month is observed and celebrated in the month of February in the United States and Canada. 
 
