@@ -10,6 +10,7 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/sameeksha-garg.yaml
+thumb_image: images/colorism (1).jpg
 ---
 ## Lorem ipsum
 
