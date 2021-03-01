@@ -11,6 +11,7 @@ image_position: top
 template: post
 author: src/data/team/sameeksha-garg.yaml
 thumb_image: images/colorism (1).jpg
+image: images/ultra-moon.jpg
 ---
 ## Lorem ipsum
 
