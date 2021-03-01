@@ -60,8 +60,6 @@ sections:
           Featuring articles on Black History Month, Gamestop, and Amanda Gormon
         actions:
           - label: Learn More
-            url: >-
-              https://drive.google.com/file/d/1fV_njhEy9STxDhC9CI8QYXQTfLvZ4mW-/view?usp=sharing
             style: primary
             has_icon: true
             icon: arrow-right
