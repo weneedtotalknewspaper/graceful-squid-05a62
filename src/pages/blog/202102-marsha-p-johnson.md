@@ -7,7 +7,7 @@ tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-image_position: top
+image_position: right
 template: post
 author: src/data/team/yedilsaac-degu.yaml
 thumb_image: images/IMG_8455.JPG
