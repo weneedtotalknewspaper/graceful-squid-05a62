@@ -2,7 +2,8 @@
 title: Colorism
 subtitle: 'Picture Source: NCCJ'
 date: '2021-03-01'
-categories: []
+categories:
+  - src/data/categories/opinion.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
