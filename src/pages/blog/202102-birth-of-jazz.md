@@ -1,6 +1,6 @@
 ---
 title: The Birth of Jazz
-subtitle: 'Picture Source:'
+subtitle: 'Picture Source: DocumentaryTube'
 date: '2021-03-01'
 categories:
   - src/data/categories/art.yaml
