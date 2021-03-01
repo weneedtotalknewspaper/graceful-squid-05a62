@@ -4,7 +4,6 @@ subtitle: "Intersections Between the Obfuscation of Black Tech Talent and Data I
 date: '2021-03-01'
 categories: []
 tags: []
-excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: right
