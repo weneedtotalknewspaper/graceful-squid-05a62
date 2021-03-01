@@ -14,6 +14,7 @@ image_position: top
 template: post
 author: src/data/team/ishika-jain.yaml
 thumb_image: images/pasted image 0 (1).png
+image: images/green-tiger.png
 ---
 Human rights are the basic rights and freedoms that belong to every person in the world, from birth until death. These basic rights are based on shared values like dignity, fairness, equality, respect, and independence. These values are, or rather should be, defined and protected by international law.
 
