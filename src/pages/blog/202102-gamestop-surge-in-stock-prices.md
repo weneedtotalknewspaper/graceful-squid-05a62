@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: GameStop's Sudden Surge in Stock Prices
 subtitle: lorem-ipsum
 date: '2021-03-01'
 categories: []
