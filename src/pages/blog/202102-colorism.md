@@ -1,6 +1,6 @@
 ---
 title: Colorism
-subtitle: lorem-ipsum
+subtitle: 'Picture Source: NCCJ'
 date: '2021-03-01'
 categories: []
 tags: []
