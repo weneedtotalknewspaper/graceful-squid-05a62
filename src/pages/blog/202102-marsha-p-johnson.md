@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The Life and Impact of Marsha P. Johnson
 subtitle: lorem-ipsum
 date: '2021-03-01'
 categories: []
