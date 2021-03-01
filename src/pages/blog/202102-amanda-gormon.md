@@ -12,6 +12,7 @@ image_position: right
 template: post
 author: src/data/team/rachel-lewis.yaml
 image: images/pink-squid.jpg
+thumb_image: images/enthusiastic-plankton.jpg
 ---
 “When day comes we ask ourselves / where can we find light in this never-ending shade?” she asked, looking upon the physically distanced crowd in front of the United States Capitol on Jan.. 20. There were 2,000 people sitting in the chairs arranged on the Capitol’s white steps, in addition to 33.8 million people watching her speak from their homes, workplaces, and libraries — anywhere with a screen and a connection. This woman commanded attention not just because she was speaking at the inauguration of a president who had one of the most controversial elections in the nation’s history. Nor was it because she was a Black female and the U.S.’s first National Youth Poet Laureate. Amanda Gorman captivated the crowd because of the emotional truth and power of her spoken word poetry. 
 
