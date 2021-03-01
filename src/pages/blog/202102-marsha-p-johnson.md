@@ -1,6 +1,6 @@
 ---
 title: The Life and Impact of Marsha P. Johnson
-subtitle: lorem-ipsum
+subtitle: Marsha P. Johnson was a revolutionary trans activist.
 date: '2021-03-01'
 categories: []
 tags: []
