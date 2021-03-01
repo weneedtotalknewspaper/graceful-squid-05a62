@@ -5,7 +5,6 @@ date: '2021-03-01'
 categories:
   - src/data/categories/opinion.yaml
 tags: []
-excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: right
