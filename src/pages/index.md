@@ -64,6 +64,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            url: /editions/
         image: images/WNTT Feb edition (1).png
         media_position: right
         media_width: fifty
