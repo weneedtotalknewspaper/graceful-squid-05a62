@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The Birth of Jazz
 subtitle: lorem-ipsum
 date: '2021-03-01'
 categories: []
