@@ -8,7 +8,7 @@ tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-image_position: top
+image_position: right
 template: post
 author: src/data/team/abey-bekalu.yaml
 thumb_image: images/top-5-jazz-musicians-you-need-to-listen.png
