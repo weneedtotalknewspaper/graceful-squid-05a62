@@ -41,18 +41,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: cta_section
-    title: Call to Action
-    content: Want to find more resources on topics we cover?
-    actions:
-      - label: Learn More
-        url: /blog/category/call-to-action
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
   - type: features_section
     features:
       - title: Check out our February edition!
@@ -71,6 +59,18 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+  - type: cta_section
+    title: Call to Action
+    content: Want to find more resources on topics we cover?
+    actions:
+      - label: Learn More
+        url: /blog/category/call-to-action
+        style: primary
+    actions_position: bottom
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: secondary
   - type: cta_section
     title: Join Our Team!
     actions:
