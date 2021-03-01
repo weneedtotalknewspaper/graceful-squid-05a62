@@ -1,6 +1,6 @@
 ---
 title: 'Big Data, Big Deception'
-subtitle: 'Intersections Between Picture Source: Arab News'
+subtitle: 'Intersections Between the ObfuscaPicture Source: Arab News'
 date: '2021-03-01'
 categories: []
 tags: []
