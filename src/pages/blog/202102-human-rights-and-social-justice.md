@@ -4,7 +4,8 @@ subtitle: >-
   “ Human rights are not a privilege conferred by the government. They are every
   human being's entitlement by virtue of his humanity. “  -- Mother Teresa 
 date: '2021-03-01'
-categories: []
+categories:
+  - src/data/categories/current-events.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
