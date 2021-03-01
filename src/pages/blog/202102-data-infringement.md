@@ -12,6 +12,7 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/shrinidhi-thiruvengadam.yaml
+thumb_image: images/2451981-1602851398.jpg
 ---
 ## Lorem ipsum
 
