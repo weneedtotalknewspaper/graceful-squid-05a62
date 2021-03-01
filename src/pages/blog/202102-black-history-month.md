@@ -1,6 +1,6 @@
 ---
 title: Black History Month
-subtitle: 'Picture Source: Houstonia Magazine'
+subtitle: 'Picture Source: Spark the Change Colorado'
 date: '2021-03-01'
 categories:
   - src/data/categories/current-events.yaml
