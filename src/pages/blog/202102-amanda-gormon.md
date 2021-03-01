@@ -1,6 +1,8 @@
 ---
 title: Poetry As A Force To Move Forward
-subtitle: lorem-ipsum
+subtitle: >-
+  National Youth Poet Laureate Amanda Gorman’s spoken word poem at Joe Biden’s
+  inauguration was the next step in her journey of lyrical activism
 date: '2021-02-26'
 categories:
   - src/data/categories/spotlight.yaml
