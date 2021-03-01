@@ -7,7 +7,7 @@ tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-image_position: top
+image_position: right
 template: post
 author: src/data/team/sameeksha-garg.yaml
 thumb_image: images/colorism (1).jpg
