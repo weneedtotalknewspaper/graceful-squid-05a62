@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Colorism
 subtitle: lorem-ipsum
 date: '2021-03-01'
 categories: []
