@@ -1,7 +1,8 @@
 ---
 title: The Life and Impact of Marsha P. Johnson
 date: '2021-03-01'
-categories: []
+categories:
+  - src/data/categories/history.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
