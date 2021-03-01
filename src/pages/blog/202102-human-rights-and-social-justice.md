@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Human Rights and Social Justice
 subtitle: lorem-ipsum
 date: '2021-03-01'
 categories: []
