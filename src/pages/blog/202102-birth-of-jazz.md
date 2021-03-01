@@ -12,6 +12,7 @@ image_position: top
 template: post
 author: src/data/team/abey-bekalu.yaml
 thumb_image: images/top-5-jazz-musicians-you-need-to-listen.png
+image: images/beige-olive.png
 ---
  Jazz is a broad style of music, characterized by complex harmonies, syncopated rhythms and a heavy emphasis on improvisation. Honestly, any attempt to arrive at a conclusive, all-encompassing definition of Jazz is probably useless. From it’s beginning at the turn of the 20th century by African American musicians in New Orleans, Jazz has been a perpetually growing and evolving genre, passing through several distinctive phases of development. A definition or description that might apply to the genre at one phase, probably becomes inappropriate when it is applied to another phase in its history.
 
