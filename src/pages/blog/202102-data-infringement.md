@@ -1,8 +1,6 @@
 ---
 title: 'Big Data, Big Deception'
-subtitle: >-
-  Intersections Between the Obfuscation of Black Tech Talent and Data
-  InfringementPicture Source: Arab News
+subtitle: "Intersections Between the Obfuscation of Black Tech Talent and Data Infringement\_ Picture Source: Arab News"
 date: '2021-03-01'
 categories: []
 tags: []
