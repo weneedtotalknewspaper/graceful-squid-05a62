@@ -1,6 +1,6 @@
 ---
 title: The Birth of Jazz
-subtitle: lorem-ipsum
+subtitle: 'Picture Source:'
 date: '2021-03-01'
 categories:
   - src/data/categories/art.yaml
