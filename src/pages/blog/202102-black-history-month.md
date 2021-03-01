@@ -1,6 +1,6 @@
 ---
 title: Black History Month
-subtitle: lorem-ipsum
+subtitle: 'Picture Source: Houstonia Magazine'
 date: '2021-03-01'
 categories:
   - src/data/categories/current-events.yaml
