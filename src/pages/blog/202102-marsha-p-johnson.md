@@ -11,6 +11,7 @@ image_position: top
 template: post
 author: src/data/team/yedilsaac-degu.yaml
 thumb_image: images/IMG_8455.JPG
+image: images/magical-lavender.JPG
 ---
 ## Lorem ipsum
 
