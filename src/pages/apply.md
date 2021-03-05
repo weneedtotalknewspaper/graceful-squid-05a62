@@ -115,7 +115,7 @@ sections:
           questions.
         content_align: left
         actions:
-          - url: lorem-ipsum
+          - url: 'https://forms.gle/j3tqVramDzH8kbrR9'
             style: link
             has_icon: false
             icon: arrow-left
