@@ -89,7 +89,7 @@ sections:
           essay questions in English. 
         content_align: left
         actions:
-          - url: lorem-ipsum
+          - url: 'https://forms.gle/XR3UUTo2tFmVXagE8'
             style: link
             has_icon: true
             icon: arrow-left
