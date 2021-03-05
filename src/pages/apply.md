@@ -43,8 +43,7 @@ sections:
         content_align: left
         actions:
           - label: Apply Now
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSco5i8l-NXIVnitQbVmk6l4pLgeWe62k_juOgDxy-d_2VdpYw/formResponse
+            url: 'https://forms.gle/gWt1bHBhKbJfEcmK7'
             style: link
             has_icon: true
             icon: arrow-right
