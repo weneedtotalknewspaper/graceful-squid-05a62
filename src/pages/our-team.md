@@ -332,7 +332,7 @@ sections:
             no_follow: false
             type: action
             label: Read More
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
