@@ -319,7 +319,7 @@ sections:
         type: grid_item
         image: images/team/wajeeha-khan.jpg
       - title: Deeksha Chitale
-        subtitle: lorem-ipsum
+        subtitle: Staff Writer
         title_align: left
         content: >-
           ## Lorem ipsum
