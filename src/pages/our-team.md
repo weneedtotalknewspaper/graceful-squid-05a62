@@ -323,8 +323,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: lorem-ipsum
-            url: lorem-ipsum
+          - url: lorem-ipsum
             style: link
             has_icon: false
             icon: arrow-left
