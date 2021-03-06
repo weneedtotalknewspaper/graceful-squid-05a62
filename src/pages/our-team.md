@@ -320,7 +320,7 @@ sections:
         image: images/team/wajeeha-khan.jpg
       - title: Deeksha Chitale
         subtitle: Staff Writer
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
