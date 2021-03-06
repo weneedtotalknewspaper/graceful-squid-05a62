@@ -323,7 +323,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - url: author/deeksha-chitale
+          - url: /blog/author/deeksha-chitale/
             style: link
             has_icon: true
             icon: arrow-right
