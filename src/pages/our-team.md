@@ -176,19 +176,6 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-      - title: Deeksha Chitale
-        subtitle: Staff Writer
-        title_align: center
-        image: images/team/deeksha-chitale.jpg
-        image_position: top
-        actions:
-          - label: Read More
-            url: /blog/author/deeksha-chitale
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
       - title: Yedilsaac Degu
         subtitle: Staff Writer
         title_align: center
