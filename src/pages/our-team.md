@@ -318,7 +318,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/team/wajeeha-khan.jpg
-      - title: lorem-ipsum
+      - title: Deeksha Chitale
         subtitle: lorem-ipsum
         title_align: left
         content: >-
