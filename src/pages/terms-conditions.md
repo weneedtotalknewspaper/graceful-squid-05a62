@@ -2,11 +2,11 @@
 title: Code of Conduct
 template: page
 ---
-# Mission 
+# **Mission **
 
 We Need To Talk (WNTT) is a student-run, activism focused newspaper that provides news for high school students, by high schoolers. WNTT covers topics that are often ignored by mainstream media, providing youth with a platform to make their voices heard. WNTT offers a diverse set of perspectives on international issues, with writers from countries around the world.
 
-# Terms 
+# **Terms **
 
 *   **content**: any article, piece of art (drawing, music, painting, etc.), or design created by a **staffer** to be published in the **newspaper** or on the **website**
 
@@ -28,15 +28,13 @@ We Need To Talk (WNTT) is a student-run, activism focused newspaper that provide
 
 *   **WNTT (We Need to Talk)**: the organization that publishes the **newspaper** and maintains its online presence, including the **website** and social media accounts
 
+# **Code of Conduct**
 
-
-# Code of Conduct
-
-1.  ## Responsibilities 
+## Responsibilities
 
 All **staffers** must adhere to the following when creating content related to **WNTT** or interacting with other staffers through an **official communication platform**: 
 
-*   uphold the mission of **WNTT **and the Code of Conduct
+*   uphold the mission of \*\*WNTT \*\*and the Code of Conduct
 
 *   promote a safe and inclusive environment for all **staffers** 
 
@@ -44,7 +42,7 @@ All **staffers** must adhere to the following when creating content related to *
 
  
 
-1.  ## Journalistic Ethics and Integrity 
+# Journalistic Ethics and Integrity 
 
 1.  ### Accuracy and Honesty
 
@@ -56,7 +54,7 @@ All information in the content that is created by **WNTT** must be real and corr
 
  
 
-1.  ## Transparency and Accountability
+## Transparency and Accountability
 
 1.  ### Transparency 
 
@@ -68,7 +66,7 @@ If any **staffer** finds an **editor** or **editors** to have violated the Code 
 
  
 
-1.  ## Harassment and Bullying 
+## Harassment and Bullying 
 
 No **staffer** may at any time harass or bully another **staffer**, whether in person or through an **official communication platform**. Harassment and bullying can take many forms, such as: 
 
@@ -84,6 +82,6 @@ All reports of harassment and bullying will be investigated by the **editorial b
 
  
 
-1.  ## Discrimination and Prejudice 
+## Discrimination and Prejudice 
 
 **WNTT** is committed to providing a safe and inclusive environment for all **staffers**, regardless of appearance, age, race, ethnicity, ancestry, cultural background, national origin, sex, gender, gender expression, sexual orientation, mental or physical disability, age, or medical condition. **WNTT** will enforce a zero-tolerance policy for any discrimination based on the above conditions. Any **staffer** that expresses prejudiced or discriminatory views about a person or group of people based on those characteristics that is offensive or harmful to that person or group may face **disciplinary action** or **termination**. 
