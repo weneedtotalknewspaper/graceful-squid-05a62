@@ -1,5 +1,5 @@
 ---
-title: Terms & Conditions
+title: Code of Conduct
 template: page
 ---
 
