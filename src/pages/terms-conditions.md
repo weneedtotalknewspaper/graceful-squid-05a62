@@ -2,11 +2,11 @@
 title: Code of Conduct
 template: page
 ---
-# \*\*Mission \*\*
+# Mission
 
 We Need To Talk (WNTT) is a student-run, activism focused newspaper that provides news for high school students, by high schoolers. WNTT covers topics that are often ignored by mainstream media, providing youth with a platform to make their voices heard. WNTT offers a diverse set of perspectives on international issues, with writers from countries around the world.
 
-# \*\*Terms \*\*
+# Terms
 
 *   **content**: any article, piece of art (drawing, music, painting, etc.), or design created by a **staffer** to be published in the **newspaper** or on the **website**
 
