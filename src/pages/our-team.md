@@ -218,7 +218,6 @@ sections:
     grid_cols: four
     align: center
     background_color: none
-    title: Current Contributors
   - type: cta_section
     title: Join Our Team
     content: >-
