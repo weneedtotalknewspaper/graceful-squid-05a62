@@ -10,7 +10,7 @@ sections:
       - title: Saranya Singh
         subtitle: Editor-In-Chief
         title_align: center
-        image: images/team/saranya-singh.jpg
+        image: images/IMG_2227-1.jpg
         image_position: top
         actions:
           - label: Read More
