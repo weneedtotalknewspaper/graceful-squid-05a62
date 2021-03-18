@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Political Cartoons
 subtitle: lorem-ipsum
 date: '2021-03-18'
 categories: []
