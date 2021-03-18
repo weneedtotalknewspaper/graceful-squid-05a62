@@ -16,6 +16,7 @@ template: post
 author: src/data/team/rachel-lewis.yaml
 thumb_image: >-
   images/https___cdn.cnn.com_cnnnext_dam_assets_180723134631-youth-climate-march-zero-hour.jpg
+image: images/green-pine.jpg
 ---
 ## Lorem ipsum
 
