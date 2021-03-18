@@ -2,7 +2,8 @@
 title: Political Cartoons
 subtitle: lorem-ipsum
 date: '2021-03-18'
-categories: []
+categories:
+  - src/data/categories/art.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
