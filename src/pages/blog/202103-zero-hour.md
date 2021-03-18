@@ -14,6 +14,8 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/rachel-lewis.yaml
+thumb_image: >-
+  images/https___cdn.cnn.com_cnnnext_dam_assets_180723134631-youth-climate-march-zero-hour.jpg
 ---
 ## Lorem ipsum
 
