@@ -1,6 +1,9 @@
 ---
 title: Zero Hour's youth advocates urge policy makers to act before time is up
-subtitle: lorem-ipsum
+subtitle: >-
+  Young activists protest lawmakers’ reluctance to adopt policies that respond
+  to the full extent of the negative effects of climate change in Washington,
+  D.C. on July 21, 2018. Photo by Fritz Mayer.
 date: '2021-03-18'
 categories:
   - src/data/categories/spotlight.yaml
