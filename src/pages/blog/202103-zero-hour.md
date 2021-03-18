@@ -20,13 +20,13 @@ image: images/green-pine.jpg
 ---
 After three devastating hurricanes (Harvey, Irma, and Maria) flooded homes and destroyed roads in countries around the Caribbean Sea in the summer of 2017, 14-year-old Jamie Margolin knew she had to take action As a resident of Seattle, Margolin was thousands of miles away from the storms, physically speaking, but she knew that humanity was only generations away from this type of weather becoming just as common as a cloudy day. Margolin then wrote and published an essay that argued for an end to the status quo of inaction in Teen Ink's monthly magazine. The article attracted the attention of a few similarly-minded teens who, along with others that Margolin met at a Princeton University summer program, joined together to create Zero Hour.
 
-
-
-
-
 ![](https://lh3.googleusercontent.com/Ny-iaOBWBvwcDB1TFdoeNsi4XGj8991EkZRUe0V8BeLGMCwrusTZhs3nUffWRjb0GIItoojYzq_MfCcc3PGBVLgYJaKXfPPIebk\_5BYjrEdWxxKR1GR6sZLTX-HNg27\_cnwXx9Zo)
 
 Members of Zero Hour’s international board of directors raise their fists to symbolize their fight for climate action. Photo courtesy of thisiszerohour.org.
+
+
+
+
 
 Zero Hour is not the only organization that encourages youth to advocate for climate action; it has a similar mission to the US Youth Climate Strike, Earth Guardians, Fridays for Future, and the Sunrise Movement, among others. However, each group approaches the issue and its possible solutions in a slightly different way. Zero Hour has marched on the National Mall (July 2018), hosted an art festival (July 2018), and trained hundreds of teens to fight for climate action at a Florida summit (July 2019). They have almost four dozen chapters in countries around the world, from the United Arab Emirates to Fiji, and 43 partner organizations. It's a successful nonprofit by any standards that is made even more impressive by the fact that its founders were all in their mid-teens when Zero Hour launched. 
 
@@ -35,6 +35,10 @@ Zero Hour is not the only organization that encourages youth to advocate for cli
 ![](https://lh3.googleusercontent.com/1ldM4xtzDPOFcP4jmU4mPtszr3RpbvzHwh6VzpxNJX09tFUUXMPJPnPeqfqvT5jTZk6PjRUZWVNwqLvVBBjeYHLWbFKXVEj4zAQdn6c7JOooUj2-UNIQmgr2JK5RSFJrAkjf-OFh)
 
 Jamie Margolin, founder of Zero Hour, demonstrated with other teenagers passionate about the environment and climate change during the Youth Climate March in Washington, D.C. on July 21, 2018. She wanted to make it clear to adult politicians that teenagers will “hold them accountable” if they don’t vote for bills that support clean energy and a healthy environment. Photo courtesy of goodmorningamerica.com.
+
+
+
+
 
 Journalists have profiled members of Zero Hour in prominent outlets like the New York Times, Teen Vogue, ABC News, and many more. Margolin has testified to two of the U.S.'s House of Representatives subcommittees alongside Greta Thunberg, shaming representatives for failing to act in order to "save life as we know it". Climate scientists believe that policy needs to change today to reverse Earth's warming so that the average global temperature does not rise by 2°C — if reached, that metric would signal a key turning point in Earth's weather patterns. 
 
