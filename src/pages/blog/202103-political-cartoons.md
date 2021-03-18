@@ -11,6 +11,7 @@ image_position: top
 template: post
 author: src/data/team/abey-bekalu.yaml
 thumb_image: images/james-gillray.jpg
+image: images/super-tomato.jpg
 ---
 It wouldn’t really be an incorrect assumption to say that political cartoons aren’t considered as art by most people. And they’re wrong.
 
