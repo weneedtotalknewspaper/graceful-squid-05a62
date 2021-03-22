@@ -8,7 +8,7 @@ tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-image_position: top
+image_position: right
 template: post
 author: src/data/team/shrinidhi-thiruvengadam.yaml
 thumb_image: images/d4ac1772-1781-47d5-a9b7-fe4d09387663-GTY_1230217419.jpg
