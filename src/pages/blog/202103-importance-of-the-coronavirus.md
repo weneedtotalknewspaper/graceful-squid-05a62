@@ -2,7 +2,8 @@
 title: Too Soon to Reopen? The Importance of the Coronavirus
 subtitle: 'Picture Source: MinnPost'
 date: '2021-03-22'
-categories: []
+categories:
+  - src/data/categories/current-events.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
