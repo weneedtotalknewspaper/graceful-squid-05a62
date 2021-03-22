@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Deb Haaland and the Complex History of Native American Female Leadership
 excerpt: lorem-ipsum
 template: page
 ---
