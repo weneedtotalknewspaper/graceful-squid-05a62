@@ -11,6 +11,7 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/deetya-adikhari.yaml
+thumb_image: images/coronavirusCDC640.png
 ---
 
 
