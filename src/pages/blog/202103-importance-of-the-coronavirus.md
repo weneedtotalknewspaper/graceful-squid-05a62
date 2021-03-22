@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Too Soon to Reopen? The Importance of the Coronavirus
 subtitle: lorem-ipsum
 date: '2021-03-22'
 categories: []
