@@ -9,6 +9,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 template: post
+author: src/data/team/yedilsaac-degu.yaml
 ---
 It is an unequivocal fact that the 2020 Presidential election has concluded and that a clear winner has been chosen. However, there is still an important customary procedure that must occur for the new administration to be solidified, and that is the confirmation hearings of the newly-minted President’s prospective cabinet members. This process has historically been nothing short of contentious, and this confirmation is said to be the “most diverse array of residential counselors ever”, according to Politico, a journalism company that covers global politics and policy. So far, the Democratic stronghold within the Senate has allowed for the confirmation process to veer in favor of President Biden, with relatively strong bipartisanship shown for a majority of the nominees, but the cabinet is far from being confirmed. 
 
