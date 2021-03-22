@@ -1,6 +1,6 @@
 ---
 title: Deb Haaland and the Complex History of Native American Female Leadership
-subtitle: lorem-ipsum
+subtitle: 'Picture Source: USA Today'
 date: '2021-03-22'
 categories: []
 tags: []
