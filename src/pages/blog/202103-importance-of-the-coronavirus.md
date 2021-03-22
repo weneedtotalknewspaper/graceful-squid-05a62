@@ -12,6 +12,7 @@ image_position: top
 template: post
 author: src/data/team/deetya-adikhari.yaml
 thumb_image: images/coronavirusCDC640.png
+image: images/super-lime.png
 ---
 
 
