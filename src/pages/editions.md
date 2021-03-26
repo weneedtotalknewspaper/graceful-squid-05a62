@@ -128,7 +128,9 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Featuring articles on Black History Month, Gamestop, and Amanda
+          Gormon.
         title: February 2021
     grid_cols: three
     grid_gap_horiz: medium
