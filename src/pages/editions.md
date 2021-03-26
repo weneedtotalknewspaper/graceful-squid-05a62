@@ -31,7 +31,8 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - url: lorem-ipsum
+          - url: >-
+              https://drive.google.com/file/d/135mGDl3R8JLIveGpdR7hPS4yDXfgftLt/view?usp=sharing
             style: link
             has_icon: true
             icon: arrow-left
