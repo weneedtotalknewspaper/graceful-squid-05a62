@@ -128,6 +128,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        subtitle: lorem-ipsum
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
