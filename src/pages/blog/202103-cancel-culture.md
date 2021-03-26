@@ -1,6 +1,6 @@
 ---
 title: Cancel Culture
-subtitle: lorem-ipsum
+subtitle: 'Picture Source: New York Times'
 date: '2021-03-26'
 categories:
   - src/data/categories/opinion.yaml
