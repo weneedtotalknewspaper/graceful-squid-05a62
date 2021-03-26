@@ -25,7 +25,7 @@ sections:
     features:
       - title: Check out our March edition!
         content: |
-          Featuring articles on Black History Month, Gamestop, and Amanda Gormon
+          Featuring articles on Deb Haaland and Cancel Culture!
         actions:
           - label: Learn More
             style: primary
