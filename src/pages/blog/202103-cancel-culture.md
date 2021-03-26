@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Cancel Culture
 subtitle: lorem-ipsum
 date: '2021-03-26'
 categories: []
