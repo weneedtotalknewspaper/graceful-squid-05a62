@@ -1,6 +1,6 @@
 ---
 title: hello
-excerpt: lorem-ipsum
+excerpt: very nice
 sections: []
 template: advanced
 ---
