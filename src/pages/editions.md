@@ -35,7 +35,7 @@ sections:
               https://drive.google.com/file/d/135mGDl3R8JLIveGpdR7hPS4yDXfgftLt/view?usp=sharing
             style: link
             has_icon: true
-            icon: arrow-left
+            icon: arrow-right
             icon_position: right
             new_window: false
             no_follow: false
