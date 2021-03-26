@@ -33,7 +33,7 @@ sections:
             icon: arrow-right
             icon_position: right
             url: /editions/
-        image: images/WNTT Feb edition (1).png
+        image: images/march edition.png
         media_position: right
         media_width: fifty
     feature_padding_vert: large
