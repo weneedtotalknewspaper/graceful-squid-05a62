@@ -106,8 +106,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: February 2021
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
