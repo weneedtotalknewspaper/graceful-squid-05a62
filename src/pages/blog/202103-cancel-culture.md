@@ -9,6 +9,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 template: post
+author: src/data/team/yedilsaac-degu.yaml
 ---
 ## Lorem ipsum
 
