@@ -23,7 +23,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Check out our February edition!
+      - title: Check out our March edition!
         content: |
           Featuring articles on Black History Month, Gamestop, and Amanda Gormon
         actions:
