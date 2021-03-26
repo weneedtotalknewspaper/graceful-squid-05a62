@@ -28,6 +28,22 @@ sections:
   - type: grid_section
     title: Past Editions
     grid_items:
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: true
+        type: grid_item
+        subtitle: >-
+          Featuring articles on Black History Month, Gamestop, and Amanda
+          Gormon.
+        title: February 2021
+        image: images/we need to talk feb edition.png
       - title: January 2021
         title_align: left
         content: >
@@ -106,22 +122,6 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: true
-        type: grid_item
-        subtitle: >-
-          Featuring articles on Black History Month, Gamestop, and Amanda
-          Gormon.
-        title: February 2021
-        image: images/we need to talk feb edition.png
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
