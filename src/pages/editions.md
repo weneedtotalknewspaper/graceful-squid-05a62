@@ -121,6 +121,7 @@ sections:
           Featuring articles on Black History Month, Gamestop, and Amanda
           Gormon.
         title: February 2021
+        image: images/we need to talk feb edition.png
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
