@@ -12,7 +12,7 @@ sections:
           Our monthly issues aim to encourage student activism all over the
           world and provide a platform for high schoolers to have their voices
           heard
-        image: images/we need to talk feb edition.png
+        image: images/wntt march 2021.png
         media_position: right
         media_width: fifty
         actions:
