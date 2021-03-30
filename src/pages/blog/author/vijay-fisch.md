@@ -2,7 +2,7 @@
 title: Vijay Fisch
 sections:
   - title: Vijay Fisch
-    subtitle: Staff Writer
+    subtitle: 'Staff Writer:'
     content: >-
       ## Lorem ipsum
 
