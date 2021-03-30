@@ -1,6 +1,5 @@
 ---
 title: Vijay Fisch
-excerpt: lorem-ipsum
 sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
