@@ -1,7 +1,7 @@
 ---
 title: Vijay Fisch
 sections:
-  - title: lorem-ipsum
+  - title: Vijay Fisch
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
