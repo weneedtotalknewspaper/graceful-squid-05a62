@@ -18,7 +18,7 @@ sections:
         actions:
           - label: Read the latest edition
             url: >-
-              https://drive.google.com/file/d/135mGDl3R8JLIveGpdR7hPS4yDXfgftLt/view?usp=sharing
+              https://drive.google.com/file/d/16a4wkq3IsyKEFRjEiBhQKtqmOFqTSLbO/view?usp=sharing
             style: link
             has_icon: true
             icon: arrow-right
