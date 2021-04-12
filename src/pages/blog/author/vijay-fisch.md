@@ -3,17 +3,13 @@ title: Vijay Fisch
 sections:
   - title: Vijay Fisch
     subtitle: 'Staff Writer: Needham, MA'
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Vijay Fisch (he/him) is a staff writer at the newspaper! He lives in
+      Needham, Mass, near Boston in the US. He is 16 years old. Primarily
+      interested in social justice and activism centered around police
+      brutality, he has worked on local and national police reform efforts since
+      the murder of George Floyd. The news in instrumental in inspiring others
+      to rise up and join a cause! Follow his insta @vijayfisch
     actions: []
     image_alt: lorem-ipsum
     media_position: left
