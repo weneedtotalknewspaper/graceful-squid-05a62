@@ -3,7 +3,7 @@ title: Ketevan Gallagher
 excerpt: lorem-ipsum
 sections:
   - title: Ketevan Gallagher
-    subtitle: lorem-ipsum
+    subtitle: 'Staff Writer: Virginia, USA'
     content: >
       Ketevan Gallagher (she/her) is a fourteen year old from Virginia, USA, who
       attends Thomas Jefferson High School for Science and Technology. She’s
