@@ -30,8 +30,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/IMG_20200808_185949_515.jpg
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: false
