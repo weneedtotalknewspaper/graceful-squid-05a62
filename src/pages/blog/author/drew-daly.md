@@ -3,7 +3,7 @@ title: Drew Daly
 excerpt: lorem-ipsum
 sections:
   - title: Drew Daly
-    subtitle: lorem-ipsum
+    subtitle: 'Staff Writer: '
     content: >-
       ## Lorem ipsum
 
