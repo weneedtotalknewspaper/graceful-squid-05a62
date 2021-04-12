@@ -2,7 +2,7 @@
 title: Ketevan Gallagher
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Ketevan Gallagher
     subtitle: lorem-ipsum
     content: >
       Ketevan Gallagher (she/her) is a fourteen year old from Virginia, USA, who
