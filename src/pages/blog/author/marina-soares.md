@@ -14,7 +14,7 @@ sections:
       shows and write.
     actions: []
     image_alt: lorem-ipsum
-    media_position: right
+    media_position: left
     media_width: fifty
     align: center
     padding_top: medium
