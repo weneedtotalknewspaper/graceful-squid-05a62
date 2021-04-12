@@ -2,7 +2,7 @@
 title: Marina Soares
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Marina Soares
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
