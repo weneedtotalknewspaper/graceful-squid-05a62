@@ -3,7 +3,7 @@ title: Maitreyee Malla
 excerpt: lorem-ipsum
 sections:
   - title: Maitreyee Malla
-    subtitle: lorem-ipsum
+    subtitle: 'Staff Writer: Vishakhapatnam, India'
     content: >
       Maitreyee Malla (she/her) is a 16 year old from Visakhapatnam, India. She
       loves writing and uses it as a platform to articulate her thoughts and
