@@ -4,17 +4,17 @@ excerpt: lorem-ipsum
 sections:
   - title: Maitreyee Malla
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Maitreyee Malla (she/her) is a 16 year old from Visakhapatnam, India. She
+      loves writing and uses it as a platform to articulate her thoughts and
+      reflect on them. She loves cooking, music, spending time with her friends,
+      animals and being outdoors. She is currently learning a classical, South
+      Indian dance form, Kuchipudi, and enjoys learning new languages. She
+      joined the We Need To Talk newspaper as she believes that access to good
+      information would help people understand the world better and in turn,
+      make it a better place.
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Her Instagram handle is @mkavyamalla
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
