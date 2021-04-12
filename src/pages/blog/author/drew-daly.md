@@ -3,7 +3,7 @@ title: Drew Daly
 excerpt: lorem-ipsum
 sections:
   - title: Drew Daly
-    subtitle: 'Staff Writer: Massaschusetts, '
+    subtitle: 'Staff Writer: Massachusetts, United States'
     content: >-
       ## Lorem ipsum
 
