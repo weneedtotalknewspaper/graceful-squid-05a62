@@ -2,7 +2,7 @@
 title: Maitreyee Malla
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Maitreyee Malla
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
