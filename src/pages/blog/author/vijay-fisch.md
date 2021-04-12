@@ -24,7 +24,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/team/filler.jpg
+    image: images/169043472_445759796701275_1542256209651174071_n.jpg
   - actions: []
     blog_feed_cols: three
     enable_cards: false
