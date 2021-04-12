@@ -2,7 +2,7 @@
 title: Vijay Fisch
 sections:
   - title: Vijay Fisch
-    subtitle: 'Staff Writer: Needham, M'
+    subtitle: 'Staff Writer: Needham, MA'
     content: >-
       ## Lorem ipsum
 
