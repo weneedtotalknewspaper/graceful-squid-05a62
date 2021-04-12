@@ -3,7 +3,7 @@ title: Marina Soares
 excerpt: lorem-ipsum
 sections:
   - title: Marina Soares
-    subtitle: lorem-ipsum
+    subtitle: "Staff Writer:\_Rio de Janeiro, Rio de Janeiro, Brazil"
     content: >-
       ## Lorem ipsum
 
