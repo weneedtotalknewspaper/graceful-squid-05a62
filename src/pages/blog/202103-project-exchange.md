@@ -10,7 +10,7 @@ tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-image_position: right
+image_position: top
 template: post
 author: src/data/team/rachel-lewis.yaml
 thumb_image: images/1591077402784.jpeg
