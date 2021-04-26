@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Studying abroad is now possible for every teen with a WiFi connection
 subtitle: lorem-ipsum
 date: '2021-04-26'
 categories:
