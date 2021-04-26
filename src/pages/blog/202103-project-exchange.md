@@ -7,7 +7,6 @@ date: '2021-04-26'
 categories:
   - src/data/categories/spotlight.yaml
 tags: []
-excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
