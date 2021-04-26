@@ -1,6 +1,8 @@
 ---
 title: Studying abroad is now possible for every teen with a WiFi connection
-subtitle: lorem-ipsum
+subtitle: >-
+  Project Exchange is a nonprofit that hosts an online international
+  communication program
 date: '2021-04-26'
 categories:
   - src/data/categories/spotlight.yaml
