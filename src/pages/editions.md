@@ -138,7 +138,7 @@ sections:
         actions:
           - url: lorem-ipsum
             style: link
-            has_icon: true
+            has_icon: false
             icon: arrow-left
             icon_position: right
             new_window: false
