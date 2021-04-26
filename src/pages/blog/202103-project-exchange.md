@@ -12,6 +12,7 @@ image_position: top
 template: post
 author: src/data/team/rachel-lewis.yaml
 thumb_image: images/1591077402784.jpeg
+image: images/1591077402784.jpeg
 ---
 
 
