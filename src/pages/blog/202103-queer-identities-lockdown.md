@@ -11,6 +11,7 @@ image_position: top
 template: post
 author: src/data/team/deetya-adikhari.yaml
 thumb_image: images/download (19).jpeg
+image: images/splendid-dolphin.jpeg
 ---
 Insecurity plagues many of us, taunting our very being. It comes in several forms, whether it be through our physical appearance, gender, sexual orientation, or even personality. Sometimes, the anxiety takes over, the unreasonable thoughts storming your mind like a sudden tidal wave. Sometimes, we feel stuck, drowning, the hurricane closing around us; we’re right at the eye, helplessly thrashing about in an endless pool of doubt. Sometimes, we feel like all that’s left of us are the ruins. Left unchecked, these feelings can easily overpower us.
 
