@@ -10,6 +10,7 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/abey-bekalu.yaml
+thumb_image: images/42e5ea6bf4bca56f0f0d08a38a8cc182--fashion-history-decade-fashion.jpeg
 ---
 Pink was originally a masculine color.
 
