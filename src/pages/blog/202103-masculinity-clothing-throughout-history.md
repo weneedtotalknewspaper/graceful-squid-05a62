@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The Peculiar Standards of Masculinity in Clothing Throughout History
 subtitle: lorem-ipsum
 date: '2021-04-27'
 categories: []
