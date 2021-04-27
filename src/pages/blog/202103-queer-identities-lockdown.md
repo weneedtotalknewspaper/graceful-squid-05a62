@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Queer and Self Identities During Lockdown
 subtitle: lorem-ipsum
 date: '2021-04-27'
 categories: []
