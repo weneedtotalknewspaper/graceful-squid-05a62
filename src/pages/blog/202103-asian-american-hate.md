@@ -11,6 +11,7 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/yedilsaac-degu.yaml
+thumb_image: images/278cdc31-c175-45ad-ba34-c48cffcead01-GTY_1309328004.jpeg
 ---
 Racism in the US isn’t a new phenomenon, however recently there has been a rise in anti-Asian hate and discrimination. According to the Stop AAPI Hate National Report, in the past year alone, there were nearly 3,800 anti-Asian racist incidents ranging from verbal harassment to physical assault and murder. There are many different factors contributing to this rise in anti-Asian sentiment, with the COVID pandemic being at the forefront.
 
