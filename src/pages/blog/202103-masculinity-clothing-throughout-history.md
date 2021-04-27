@@ -7,7 +7,7 @@ categories:
 tags: []
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-image_position: top
+image_position: right
 template: post
 author: src/data/team/abey-bekalu.yaml
 thumb_image: images/42e5ea6bf4bca56f0f0d08a38a8cc182--fashion-history-decade-fashion.jpeg
