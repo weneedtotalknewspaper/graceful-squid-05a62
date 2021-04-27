@@ -1,6 +1,6 @@
 ---
 title: Queer and Self Identities During Lockdown
-subtitle: lorem-ipsum
+subtitle: 'Picture Source: Tofugu'
 date: '2021-04-27'
 categories: []
 tags: []
