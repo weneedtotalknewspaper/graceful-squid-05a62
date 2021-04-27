@@ -24,8 +24,9 @@ sections:
   - type: features_section
     features:
       - title: Check out our March edition!
-        content: |
-          Featuring articles on Deb Haaland and Cancel Culture!
+        content: >
+          Featuring articles on AAPI hate, queer identities, and masculinity
+          throughout history!
         actions:
           - label: Learn More
             style: primary
