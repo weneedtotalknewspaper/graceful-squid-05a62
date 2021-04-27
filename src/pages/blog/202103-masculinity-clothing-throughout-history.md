@@ -1,6 +1,6 @@
 ---
 title: The Peculiar Standards of Masculinity in Clothing Throughout History
-subtitle: lorem-ipsum
+subtitle: 'Picture Source: Pintrest'
 date: '2021-04-27'
 categories:
   - src/data/categories/history.yaml
