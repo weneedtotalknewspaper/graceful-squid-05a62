@@ -7,7 +7,7 @@ categories:
 tags: []
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-image_position: top
+image_position: right
 template: post
 author: src/data/team/yedilsaac-degu.yaml
 thumb_image: images/278cdc31-c175-45ad-ba34-c48cffcead01-GTY_1309328004.jpeg
