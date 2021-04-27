@@ -2,7 +2,8 @@
 title: Asian American Hate Crimes
 subtitle: 'Picture Source: USA Today'
 date: '2021-04-27'
-categories: []
+categories:
+  - src/data/categories/current-events.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
