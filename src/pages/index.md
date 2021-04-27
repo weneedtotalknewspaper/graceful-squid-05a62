@@ -33,7 +33,7 @@ sections:
             icon: arrow-right
             icon_position: right
             url: /editions/
-        image: images/march edition.png
+        image: images/WNTT March 2021 (1).png
         media_position: right
         media_width: fifty
     feature_padding_vert: large
