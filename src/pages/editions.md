@@ -132,7 +132,7 @@ sections:
         image_align: left
         image_has_padding: true
       - title: March 2021
-        subtitle: Featuring articles
+        subtitle: 'Featuring articles on Deb Haaland, Cancel Culture, and more.'
         title_align: left
         content_align: left
         actions:
