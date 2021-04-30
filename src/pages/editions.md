@@ -33,14 +33,6 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - url: lorem-ipsum
-            style: link
-            has_icon: false
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
           - label: lorem-ipsum
             url: lorem-ipsum
             style: link
