@@ -23,7 +23,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Check out our March edition!
+      - title: Check out our April edition!
         content: >
           Featuring articles on AAPI hate, queer identities, and masculinity
           throughout history!
