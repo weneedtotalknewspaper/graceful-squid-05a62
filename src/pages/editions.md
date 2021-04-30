@@ -36,7 +36,7 @@ sections:
           - url: >-
               https://drive.google.com/file/d/16a4wkq3IsyKEFRjEiBhQKtqmOFqTSLbO/view?usp=sharing
             style: link
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
