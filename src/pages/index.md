@@ -40,17 +40,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-  - type: cta_section
-    title: Join Our Team!
-    actions:
-      - label: Apply Now
-        url: /apply
-        style: secondary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - type: blog_feed_section
     title: Featured Articles
     actions:
@@ -71,6 +60,17 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+  - type: cta_section
+    title: Join Our Team!
+    actions:
+      - label: Apply Now
+        url: /apply
+        style: secondary
+    actions_position: bottom
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
   - type: cta_section
     title: Call to Action
     content: Want to find more resources on topics we cover?
