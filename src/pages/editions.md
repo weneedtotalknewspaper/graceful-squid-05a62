@@ -28,6 +28,28 @@ sections:
   - type: grid_section
     title: Past Editions
     grid_items:
+      - title: March 2021
+        subtitle: 'Featuring articles on Deb Haaland, Cancel Culture, and more.'
+        title_align: left
+        content_align: left
+        actions:
+          - url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: sixty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/wntt march 2021.png
       - title_align: left
         content_align: left
         actions:
@@ -131,28 +153,6 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: March 2021
-        subtitle: 'Featuring articles on Deb Haaland, Cancel Culture, and more.'
-        title_align: left
-        content_align: left
-        actions:
-          - url: lorem-ipsum
-            style: link
-            has_icon: false
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: sixty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/wntt march 2021.png
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
