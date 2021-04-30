@@ -47,7 +47,7 @@ sections:
         image_position: top
         image_width: sixty
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         type: grid_item
         image: images/wntt march 2021.png
       - title_align: left
