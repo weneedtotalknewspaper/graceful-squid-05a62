@@ -6,7 +6,7 @@ sections:
     subtitle: 'Staff Writer: Ontario, Canada'
     actions: []
     image_alt: lorem-ipsum
-    media_position: top
+    media_position: left
     media_width: fifty
     align: left
     padding_top: medium
