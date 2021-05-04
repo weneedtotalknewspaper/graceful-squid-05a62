@@ -23,8 +23,7 @@ sections:
       creating various art pieces. She joined We Need To Talk because she
       believes that it is important for people to express their opinions.
     image: images/headprofile.png
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     blog_feed_cols: three
     enable_cards: false
     show_recent: false
