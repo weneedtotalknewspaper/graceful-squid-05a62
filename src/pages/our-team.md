@@ -215,7 +215,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-      - title: lorem-ipsum
+      - title: Andrew Daly
         subtitle: lorem-ipsum
         title_align: left
         content: >-
