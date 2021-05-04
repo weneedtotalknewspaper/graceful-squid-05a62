@@ -45,5 +45,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+    author: src/data/team/person-i8afcoxfp.json
 template: advanced
 ---
