@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Paleesa Kapoor
 excerpt: lorem-ipsum
 sections:
   - title: Paleesa Kapoor
