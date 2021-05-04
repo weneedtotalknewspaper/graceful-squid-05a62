@@ -23,5 +23,6 @@ sections:
       listen to music and watch netflix. Paleesa also enjoys reading and
       creating various art pieces. She joined We Need To Talk because she
       believes that it is important for people to express their opinions.
+    image: images/headprofile.png
 template: advanced
 ---
