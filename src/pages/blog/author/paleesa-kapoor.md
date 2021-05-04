@@ -3,7 +3,7 @@ title: lorem-ipsum
 excerpt: lorem-ipsum
 sections:
   - title: Paleesa Kapoor
-    subtitle: lorem-ipsum
+    subtitle: 'Staff Writer: Ontario, Canada'
     content: >-
       ## Lorem ipsum
 
