@@ -217,7 +217,7 @@ sections:
         actions_align: center
       - title: Andrew Daly
         subtitle: Staff Writer
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
