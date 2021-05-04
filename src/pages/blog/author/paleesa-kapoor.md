@@ -8,7 +8,7 @@ sections:
     image_alt: lorem-ipsum
     media_position: left
     media_width: sixty
-    align: left
+    align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false
