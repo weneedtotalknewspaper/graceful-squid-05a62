@@ -215,20 +215,6 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-      - title: Andrew Daly
-        subtitle: Staff Writer
-        title_align: center
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: sixty
-        image_align: left
-        image_has_padding: true
-        type: grid_item
-        image: images/Image from iOS.png
     grid_cols: four
     align: center
     background_color: none
