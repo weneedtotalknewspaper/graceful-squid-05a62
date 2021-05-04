@@ -18,5 +18,10 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    content: >
+      Paleesa (she/her) is a 16 year old from Ontario Canada. She loves to draw,
+      listen to music and watch netflix. Paleesa also enjoys reading and
+      creating various art pieces. She joined We Need To Talk because she
+      believes that it is important for people to express their opinions.
 template: advanced
 ---
