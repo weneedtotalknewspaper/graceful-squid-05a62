@@ -284,7 +284,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/team/filler.jpg
-      - title: lorem-ipsum
+      - title: Marina Soares
         subtitle: lorem-ipsum
         title_align: left
         content: >-
