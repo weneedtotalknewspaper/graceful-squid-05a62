@@ -244,7 +244,7 @@ sections:
         content_align: left
         actions:
           - label: Read More
-            url: blog/author/andrew-daly
+            url: /blog/author/drew-daly/
             style: link
             has_icon: true
             icon: arrow-right
