@@ -286,7 +286,7 @@ sections:
         image: images/team/filler.jpg
       - title: Marina Soares
         subtitle: Staff Writer
-        title_align: right
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
