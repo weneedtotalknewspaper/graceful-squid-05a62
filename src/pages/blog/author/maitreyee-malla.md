@@ -30,8 +30,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/team/filler.jpg
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: false
