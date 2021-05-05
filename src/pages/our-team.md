@@ -274,7 +274,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: images/Snapchat-1909681854_2.png
+        image: images/team/filler.jpg
     grid_cols: four
     align: center
     background_color: none
