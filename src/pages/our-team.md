@@ -238,7 +238,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/team/filler.jpg
-      - title: lorem-ipsum
+      - title: Andrew Daly
         subtitle: lorem-ipsum
         title_align: left
         content: >-
