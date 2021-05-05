@@ -239,7 +239,7 @@ sections:
         type: grid_item
         image: images/team/filler.jpg
       - title: Andrew Daly
-        subtitle: lorem-ipsum
+        subtitle: Staff Writer
         title_align: left
         content: >-
           ## Lorem ipsum
