@@ -217,7 +217,7 @@ sections:
         actions_align: center
       - title: Paleesa Kapoor
         subtitle: Staff Writer
-        title_align: right
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
