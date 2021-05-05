@@ -4,5 +4,6 @@
     "first_name": "Paleesa",
     "last_name": "Kapoor",
     "photo_alt": "lorem-ipsum",
-    "type": "person"
+    "type": "person",
+    "photo": "images/headprofile.png"
 }
