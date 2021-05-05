@@ -221,7 +221,7 @@ sections:
         content_align: left
         actions:
           - label: Read More
-            url: lorem-ipsum
+            url: blog/author/paleesa-kapoor
             style: link
             has_icon: false
             icon: arrow-left
