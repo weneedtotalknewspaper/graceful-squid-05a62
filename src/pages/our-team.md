@@ -218,7 +218,7 @@ sections:
       - title: Paleesa Kapoor
         subtitle: Staff Writer
         title_align: center
-        content_align: left
+        content_align: center
         actions:
           - label: Read More
             url: blog/author/paleesa-kapoor
