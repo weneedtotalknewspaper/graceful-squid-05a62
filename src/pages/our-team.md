@@ -261,7 +261,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/team/filler.jpg
-      - title: lorem-ipsum
+      - title: Maitreyee Malla
         subtitle: lorem-ipsum
         title_align: left
         content: >-
