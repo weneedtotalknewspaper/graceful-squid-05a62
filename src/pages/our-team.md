@@ -331,7 +331,7 @@ sections:
         type: grid_item
         image: images/team/filler.jpg
       - title: Tara Vidyababu
-        subtitle: lorem-ipsum
+        subtitle: Staff Writer
         title_align: left
         content_align: left
         actions: []
