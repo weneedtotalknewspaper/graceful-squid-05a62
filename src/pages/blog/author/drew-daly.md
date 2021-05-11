@@ -28,7 +28,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Image from iOS.png
+    image: images/Andrew Daly.png
   - actions: []
     blog_feed_cols: three
     enable_cards: false
