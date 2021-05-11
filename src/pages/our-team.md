@@ -366,7 +366,6 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: images/169043472_445759796701275_1542256209651174071_n.jpg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
