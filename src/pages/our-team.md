@@ -313,7 +313,7 @@ sections:
         content_align: center
         actions:
           - label: Read More
-            url: lorem-ipsum
+            url: blog/author/ketevan-gallagher
             style: link
             has_icon: true
             icon: arrow-right
