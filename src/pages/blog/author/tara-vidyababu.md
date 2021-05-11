@@ -4,17 +4,8 @@ excerpt: lorem-ipsum
 sections:
   - title: Tara Vidyababu
     subtitle: 'Staff Writer:'
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      Coming soon
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
