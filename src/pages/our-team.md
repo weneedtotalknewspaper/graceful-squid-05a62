@@ -309,7 +309,7 @@ sections:
         image: images/team/filler.jpg
       - title: Ketevan Gallagher
         subtitle: Staff Writer
-        title_align: left
+        title_align: center
         content_align: center
         actions: []
         actions_align: left
