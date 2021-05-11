@@ -312,7 +312,7 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: Read More
             url: lorem-ipsum
             style: link
             has_icon: false
