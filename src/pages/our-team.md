@@ -260,7 +260,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: images/team/filler.jpg
+        image: images/Andrew Daly.png
       - title: Maitreyee Malla
         subtitle: Staff Writer
         title_align: center
