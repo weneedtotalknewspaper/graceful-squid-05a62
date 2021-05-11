@@ -237,7 +237,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: images/Untitled design (20).png
+        image: images/Untitled design (21).png
       - title: Andrew Daly
         subtitle: Staff Writer
         title_align: center
