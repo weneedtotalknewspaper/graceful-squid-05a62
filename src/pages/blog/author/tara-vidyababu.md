@@ -3,7 +3,7 @@ title: lorem-ipsum
 excerpt: lorem-ipsum
 sections:
   - title: Tara Vidyababu
-    subtitle: lorem-ipsum
+    subtitle: 'Staff Writer:'
     content: >-
       ## Lorem ipsum
 
