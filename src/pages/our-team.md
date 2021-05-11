@@ -336,15 +336,15 @@ sections:
         content_align: left
         actions:
           - label: Read More
-            url: lorem-ipsum
+            url: blog/author/tara-vidyababu
             style: link
             has_icon: true
-            icon: arrow-left
+            icon: arrow-right
             icon_position: right
             new_window: false
             no_follow: false
             type: action
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
