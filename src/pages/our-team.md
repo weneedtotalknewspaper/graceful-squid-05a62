@@ -355,7 +355,7 @@ sections:
         image: images/team/filler.jpg
       - title: Vijay Fisch
         subtitle: Staff Writer
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
