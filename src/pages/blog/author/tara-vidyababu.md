@@ -41,5 +41,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+    author: src/data/team/person-uzks7eb55.json
 template: advanced
 ---
