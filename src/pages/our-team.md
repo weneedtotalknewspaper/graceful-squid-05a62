@@ -320,6 +320,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/Image from iOS.jpg
     grid_cols: four
     align: center
     background_color: none
