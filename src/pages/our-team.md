@@ -364,7 +364,7 @@ sections:
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         type: grid_item
         image: images/169043472_445759796701275_1542256209651174071_n.jpg
     grid_cols: four
