@@ -9,6 +9,7 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/person-0cwaca1es.json
+image: images/image (1).png
 ---
 Martin Luther King Jr. was born on January, 15 1929 in Atlanta, Georgia, United States. He was initially known as Micheal King Jr. and was the second child of Michael King Sr. and Alberta Williams King. King had an older sister named Willie Christine and a younger brother,  Alfred Daniel Williams King, which made him the middle-child. King was from a middle-class family. He grew up in Atlanta, Georgia. His family resided on Auburn Avenue which was recognized as the “Black Wall Street”, which included America’s largest and most successful black businesses and black churches years prior to the civil rights movement. Although King was fortunate to live in a secure and loving area and have parents who desperately tried to protect him from racism, he often still encountered situations experiencing prejudices. When Martin was a child, his white peers refused to play with him because they were now attending segregated schools. 
 
