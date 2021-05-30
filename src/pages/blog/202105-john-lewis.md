@@ -1,6 +1,6 @@
 ---
 title: The History of John Lewis
-subtitle: "“If not us, then who, if not now, then when”\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_-Congressman John Robert Lewis."
+subtitle: '“If not us, then who, if not now, then when” -Congressman John Robert Lewis.'
 date: '2021-05-30'
 categories: []
 tags: []
