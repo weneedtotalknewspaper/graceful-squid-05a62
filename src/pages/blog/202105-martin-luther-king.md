@@ -1,6 +1,5 @@
 ---
 title: A History of Martin Luther King Jr.
-subtitle: lorem-ipsum
 date: '2021-05-30'
 categories: []
 tags: []
