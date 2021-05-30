@@ -9,6 +9,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 template: post
+author: src/data/team/person-ggh5jtzes.json
 ---
 According to the Women in Law and Development in Africa, over 2.5 billion women and girls around the world are affected by discriminatory laws. These discriminatory laws can range anywhere from restrictions on marriage, citizenship, and applying for jobs. Even today, men and women are held to different standards, which often hold women and girls back.
 
