@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Jakoma Jabbie
 subtitle: lorem-ipsum
 date: '2021-05-30'
 categories: []
