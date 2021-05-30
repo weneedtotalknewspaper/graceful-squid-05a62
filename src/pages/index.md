@@ -25,8 +25,8 @@ sections:
     features:
       - title: Check out our May edition!
         content: >
-          Featuring articles on AAPI hate, queer identities, and masculinity
-          throughout history!
+          Featuring articles on the Amazon union vote, anti-trans bills, and the
+          second wave of COVID in India!
         actions:
           - label: Learn More
             style: primary
