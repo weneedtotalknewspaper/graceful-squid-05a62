@@ -4,5 +4,6 @@
     "first_name": "Afomia",
     "last_name": "Ashebir",
     "photo_alt": "lorem-ipsum",
-    "type": "person"
+    "type": "person",
+    "photo": "images/team/filler.jpg"
 }
