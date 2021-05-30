@@ -4,5 +4,6 @@
     "first_name": "Tara",
     "last_name": "Vidyababu",
     "photo_alt": "lorem-ipsum",
-    "type": "person"
+    "type": "person",
+    "photo": "images/team/filler.jpg"
 }
