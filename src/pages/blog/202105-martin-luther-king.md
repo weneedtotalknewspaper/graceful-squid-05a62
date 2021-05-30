@@ -1,7 +1,8 @@
 ---
 title: A History of Martin Luther King Jr.
 date: '2021-05-30'
-categories: []
+categories:
+  - src/data/categories/history.yaml
 tags: []
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
