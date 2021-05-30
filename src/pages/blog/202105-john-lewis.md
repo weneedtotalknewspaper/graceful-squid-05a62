@@ -11,6 +11,7 @@ image_position: right
 template: post
 author: src/data/team/person-5hjyfb78x.json
 thumb_image: images/unnamed (7).jpeg
+image: images/unnamed (7).jpeg
 ---
 John Lewis was a man, who like many others, was inspired by the words of Martin Luther King, oftentimes listening to his words as they broadcasted on a radio gospel program led by King himself. He was stirred by King’s passionate words, his ability to speak on racial injustice and his continuous efforts in fighting against it through peaceful protest. This and the Montgomery Bus Boycott lit a fire in Lewis that would continue to burn and set alight events that would change the history of civil rights movements and African Americans as the world knew it.
 
