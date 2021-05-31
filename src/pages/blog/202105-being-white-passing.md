@@ -6,7 +6,7 @@ categories: []
 tags: []
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-image_position: top
+image_position: right
 template: post
 author: src/data/team/person-q71b6we25.json
 thumb_image: images/bcomber-oped-illustration-675x900.png
