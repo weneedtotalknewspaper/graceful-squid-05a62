@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Being White Passing in America
 subtitle: lorem-ipsum
 date: '2021-05-31'
 categories: []
