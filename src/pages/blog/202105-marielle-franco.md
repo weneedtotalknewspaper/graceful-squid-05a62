@@ -10,6 +10,7 @@ image_position: top
 template: post
 author: src/data/team/person-rruw0fxu9.json
 thumb_image: images/1500af57035c4f1bd8fc3cf2465a0ba2.jpeg
+image: images/1500af57035c4f1bd8fc3cf2465a0ba2.jpeg
 ---
 Marielle Franco (Marielle Francisco da Silva) was a sociologist and politician who defended feminism, human rights and criticized federal intervention and the military police. She was born in Rio de Janeiro (Brazil) on July 27, 1979. She joined the community pre-university entrance exam and graduated in sociology at PUC (Pontifical Catholic University) and received a master's degree in public administration from UFF (Federal Fluminense University).
 
