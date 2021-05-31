@@ -10,6 +10,7 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/deetya-adikhari.yaml
+thumb_image: images/unnamed (2).png
 ---
 Demand for online delivery has increased as quarantine suddenly struck society, and popular online retailer Amazon is no stranger to that fact. According to an employee tally at one delivery center, Amazon has been processing from 10% to 40% more packages than normal for this time of year. The company’s website had 639,330,722 visits for the week of March 9, according to data from Comscore, up 32% from the year earlier. This has put employees and workers there under immense strain as they try to process orders as quickly as possible. 
 
