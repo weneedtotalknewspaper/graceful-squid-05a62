@@ -376,7 +376,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/staff image.png
-      - title: lorem-ipsum
+      - title: Afomia Ashebir Mekonnen
         subtitle: lorem-ipsum
         title_align: left
         content: >-
