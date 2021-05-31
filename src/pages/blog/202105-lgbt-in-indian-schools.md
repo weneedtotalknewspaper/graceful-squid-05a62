@@ -24,3 +24,5 @@ But even with mainstream media being highly misinformative and anti-LGBTQ, polit
 Schools should make education about the LGBTQ+ and such topics vital so as to help children know who they are, make them feel safe and accepted, to help cis/het students empathize better, to decrease homophobic bullying and the use of slurs. Protection and ally programs should be encouraged and children should be given more liberty of expressing themselves. We as students are always taught that same-sex relationships are unnatural, and that we have to fit into society’s gender norms, but with the world at our fingertips and social media being a platform for everyone to showcase themselves freely, we are questioning things more.
 
 More children and adults alike are getting better at understanding themselves better and are becoming more confident about their gender identities and people are becoming better at understanding and accepting those who are coming out around them.
+
+![](https://lh6.googleusercontent.com/5GtyI39iEN7AVAFwb6I7eOBSMPaj0IOOnnFao2GRtdjyW6b01RuBoy5Rtw5KWmPujn4C1BwpgtbVjw7vsM38KQ97WiXPiqDMcPsv5VNKuqk4wQdE865Tw9S4-NtvfQ-jOUhmYJwS)
