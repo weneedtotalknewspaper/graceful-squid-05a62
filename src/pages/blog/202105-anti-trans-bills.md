@@ -2,7 +2,8 @@
 title: 2021 Sees Sweeping Number of Anti-trans Bills Across US States
 subtitle: 'Picture Source: ABC News'
 date: '2021-05-31'
-categories: []
+categories:
+  - src/data/categories/current-events.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
