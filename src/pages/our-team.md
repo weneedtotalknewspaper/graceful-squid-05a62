@@ -382,7 +382,7 @@ sections:
         content_align: left
         actions:
           - label: Read More
-            url: blog/author/afomia-ashebir
+            url: /blog/author/afomia-ashebir-mekonnen/
             style: link
             has_icon: true
             icon: arrow-right
