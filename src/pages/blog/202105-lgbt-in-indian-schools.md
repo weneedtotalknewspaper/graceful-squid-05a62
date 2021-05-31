@@ -11,6 +11,7 @@ image_position: top
 template: post
 author: src/data/team/person-kq9myrmtx.json
 thumb_image: images/ai-4.jpeg
+image: images/ai-4.jpeg
 ---
 With the availability of media giving us insights from and about people across the globe, awareness about LGBTQ+ is getting better every day, but are our institutions doing anything to aid the children that are coming out every day? Are institutions even doing anything to at least try and understand and educate children about gender and sexuality?
 
