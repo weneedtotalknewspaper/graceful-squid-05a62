@@ -378,7 +378,7 @@ sections:
         image: images/staff image.png
       - title: Afomia Ashebir Mekonnen
         subtitle: Staff Writer
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
