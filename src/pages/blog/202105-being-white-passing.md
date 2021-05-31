@@ -9,6 +9,7 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/person-q71b6we25.json
+thumb_image: images/bcomber-oped-illustration-675x900.png
 ---
 Imagine looking at the current events as though you are looking through a glass dome. Imagine trying to speak and everyone looks at you as if you are talking in someone else’s voice. To simultaneously speak for both sides and yet be voiceless; this is what it feels like to be a white-passing Black person. 
 
