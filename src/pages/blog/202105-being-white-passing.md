@@ -2,7 +2,8 @@
 title: Being White Passing in America
 subtitle: 'Picture Source: the Beachcomber'
 date: '2021-05-31'
-categories: []
+categories:
+  - src/data/categories/opinion.yaml
 tags: []
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
