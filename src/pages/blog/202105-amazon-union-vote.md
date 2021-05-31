@@ -3,6 +3,7 @@ title: Amazon Union Vote Appealed
 date: '2021-05-31'
 categories:
   - src/data/categories/current-events.yaml
+  - src/data/categories/current-events.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
