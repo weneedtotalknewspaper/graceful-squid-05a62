@@ -377,7 +377,7 @@ sections:
         type: grid_item
         image: images/staff image.png
       - title: Afomia Ashebir Mekonnen
-        subtitle: lorem-ipsum
+        subtitle: Staff Writer
         title_align: left
         content: >-
           ## Lorem ipsum
