@@ -1,6 +1,5 @@
 ---
 title: The Murder of Marielle Franco
-subtitle: lorem-ipsum
 date: '2021-05-31'
 categories: []
 tags: []
