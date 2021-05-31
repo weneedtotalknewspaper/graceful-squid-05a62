@@ -11,6 +11,7 @@ image_position: top
 template: post
 author: src/data/team/person-knhhcyz5a.json
 thumb_image: images/oceanic-owl.jpeg
+image: images/groovy-ant.jpeg
 ---
 This year, President Biden signed an executive order repealing the ban of transgender people in the military, and Democrats, who have generally expressed more support for the LGBTQ+ community, control the White House, the House of Representatives, and the Senate.  Regardless, 2021 has seen the highest amounts of anti-transgender legislation filed in US history.
 
