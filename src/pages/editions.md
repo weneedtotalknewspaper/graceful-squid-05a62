@@ -28,6 +28,22 @@ sections:
   - type: grid_section
     title: Past Editions
     grid_items:
+      - title: April 2021
+        subtitle: >-
+          Featuring articles on AAPI hate crimes and Queer identities during
+          lockdown.
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/WNTT April 2021.jpg
       - title: March 2021
         subtitle: 'Featuring articles on Deb Haaland, Cancel Culture, and more.'
         title_align: left
@@ -154,22 +170,6 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: April 2021
-        subtitle: >-
-          Featuring articles on AAPI hate crimes and Queer identities during
-          lockdown.
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/WNTT April 2021.jpg
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
