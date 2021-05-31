@@ -155,7 +155,7 @@ sections:
         image_align: left
         image_has_padding: true
       - title: April 2021
-        subtitle: 'Featuring articles on AAPI hate, '
+        subtitle: 'Featuring articles on AAPI hate crimes and '
         title_align: left
         content: >-
           ## Lorem ipsum
