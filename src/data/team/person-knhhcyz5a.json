@@ -4,5 +4,6 @@
     "first_name": "Ketevan",
     "last_name": "Gallagher",
     "photo_alt": "lorem-ipsum",
-    "type": "person"
+    "type": "person",
+    "photo": "images/Ketevan Gallagher.png"
 }
