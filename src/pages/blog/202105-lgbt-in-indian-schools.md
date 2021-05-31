@@ -1,6 +1,6 @@
 ---
 title: What LGBTQ+ Means In Indian Schools
-subtitle: lorem-ipsum
+subtitle: 'Picture Source: NewsLaundry'
 date: '2021-05-31'
 categories: []
 tags: []
