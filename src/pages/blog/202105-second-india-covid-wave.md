@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: India's Second Covid Wave
 subtitle: lorem-ipsum
 date: '2021-05-31'
 categories: []
