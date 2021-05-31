@@ -155,7 +155,9 @@ sections:
         image_align: left
         image_has_padding: true
       - title: April 2021
-        subtitle: 'Featuring articles on AAPI hate crimes and '
+        subtitle: >-
+          Featuring articles on AAPI hate crimes and Queer identities during
+          lockdown.
         title_align: left
         content: >-
           ## Lorem ipsum
