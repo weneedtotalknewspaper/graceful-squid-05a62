@@ -401,7 +401,7 @@ sections:
         image: images/team/filler.jpg
       - title: Grace Huang
         subtitle: Managing Editor
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
