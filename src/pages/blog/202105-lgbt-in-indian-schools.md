@@ -1,5 +1,5 @@
 ---
-title: What The LGBTQ+
+title: What LGBTQ+ Means In Indian Schools
 subtitle: lorem-ipsum
 date: '2021-05-31'
 categories: []
