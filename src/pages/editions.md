@@ -12,7 +12,7 @@ sections:
           Our monthly issues aim to encourage student activism all over the
           world and provide a platform for high schoolers to have their voices
           heard
-        image: images/WNTT April 2021.jpg
+        image: images/WNTT May 2021.jpg
         media_position: right
         media_width: fifty
         actions:
