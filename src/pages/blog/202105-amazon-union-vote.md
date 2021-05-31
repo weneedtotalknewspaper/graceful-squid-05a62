@@ -1,6 +1,5 @@
 ---
 title: Amazon Union Vote Appealed
-subtitle: lorem-ipsum
 date: '2021-05-31'
 categories: []
 tags: []
