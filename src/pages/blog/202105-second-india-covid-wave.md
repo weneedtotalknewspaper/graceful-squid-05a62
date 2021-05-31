@@ -8,6 +8,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 template: post
+author: src/data/team/person-ggh5jtzes.json
 ---
 The second wave of COVID-19 has caused tremendous damage in India. In June of 2020, India had reported 10,000 COVID-19 cases and began adding around 35,000 more cases every day after that. Then, in February 2021, cases in India were rising by 22,000 daily. However, this only worsened after the second COVID-19 wave intensified causing nearly a daily average of 89,000 cases daily. 
 ![](https://lh6.googleusercontent.com/ScYMjX3YOm1Bd2xGiorgicQsFtWKlhqkqWAWaGUZrMPRFkcgQw1tbfejOzKChQcOrlq1F38jhbJN9kzjRT5bEhJ1EI93\_Ge\_4NYrpTGZoSMZZnR8wcRJVGq3MS3SQx3Ag5NeVWJ9)
