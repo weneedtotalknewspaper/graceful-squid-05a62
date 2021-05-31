@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 2021 Sees Sweeping Number of Anti-trans Bills Across US States
 subtitle: lorem-ipsum
 date: '2021-05-31'
 categories: []
