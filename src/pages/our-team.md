@@ -382,7 +382,7 @@ sections:
         content_align: left
         actions:
           - label: Read More
-            url: blog/author/afomia as
+            url: blog/author/afomia ashebir
             style: link
             has_icon: false
             icon: arrow-left
