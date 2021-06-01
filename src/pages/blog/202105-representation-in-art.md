@@ -10,6 +10,7 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/vishakha-singh.yaml
+thumb_image: images/lgbt-cartoons-featured.jpeg
 ---
 If you say incredulous things like:
 
