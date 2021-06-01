@@ -3,8 +3,6 @@ title: Afomia Ashebir Mekonnen
 sections:
   - title: Afomia Ashebir Mekonnen
     subtitle: Coming soon.
-    content: |
-      Coming soon.
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
