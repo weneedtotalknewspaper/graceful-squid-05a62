@@ -384,7 +384,7 @@ sections:
           - label: Read More
             url: /blog/author/afomia-ashebir-mekonnen/
             style: link
-            has_icon: false
+            has_icon: true
             icon: arrow-right
             icon_position: right
             new_window: false
