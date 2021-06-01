@@ -399,28 +399,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/team/filler.jpg
-      - title: Grace Huang
-        subtitle: Managing Editor
-        title_align: center
-        content_align: left
-        actions:
-          - label: Read More
-            url: lorem-ipsum
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
     grid_cols: four
     align: center
     background_color: none
