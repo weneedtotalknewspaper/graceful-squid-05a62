@@ -1,6 +1,6 @@
 ---
 title: Representation in Art
-subtitle: lorem-ipsum
+subtitle: 'Picture Source: TVLine'
 date: '2021-06-01'
 categories:
   - src/data/categories/art.yaml
