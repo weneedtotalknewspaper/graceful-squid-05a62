@@ -7,7 +7,7 @@ categories:
 tags: []
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-image_position: top
+image_position: right
 template: post
 author: src/data/team/vishakha-singh.yaml
 thumb_image: images/lgbt-cartoons-featured.jpeg
