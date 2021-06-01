@@ -2,7 +2,8 @@
 title: Representation in Art
 subtitle: lorem-ipsum
 date: '2021-06-01'
-categories: []
+categories:
+  - src/data/categories/art.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
