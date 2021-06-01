@@ -1,7 +1,7 @@
 ---
 title: Afomia Ashebir Mekonnen
 sections:
-  - title: lorem-ipsum
+  - title: Afomia Ashebir Mekonnen
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
