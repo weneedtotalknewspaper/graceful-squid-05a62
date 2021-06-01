@@ -2,7 +2,7 @@
 title: Afomia Ashebir Mekonnen
 sections:
   - title: Afomia Ashebir Mekonnen
-    subtitle: lorem-ipsum
+    subtitle: Coming soon.
     content: >-
       ## Lorem ipsum
 
