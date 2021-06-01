@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Representation in Art
 subtitle: lorem-ipsum
 date: '2021-06-01'
 categories: []
