@@ -10,6 +10,7 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/person-i8afcoxfp.json
+thumb_image: images/unnamed (3).png
 ---
 During the global coronavirus pandemic which shook all of our lives, the music industry was halted. Concerts were canceled, bands stopped performing, and the future of the music industry looked dreary. I was inspired, though, by the speed at which musicians adapted. Bands in New York City playing in their apartments through their windows for onlookers on the streets below went viral. Musicians such as Coldplay, and my personal favorite, Rex Orange County, hosted free instagram live concerts. Other famous musicians such as Charlie Puth and Travis Scott hosted paid virtual concerts. 
 
