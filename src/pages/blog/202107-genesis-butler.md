@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Genesis Butler: 14-Year Old Activist Using Her Voice to Better the Planet'
 subtitle: lorem-ipsum
 date: '2021-06-26'
 categories: []
