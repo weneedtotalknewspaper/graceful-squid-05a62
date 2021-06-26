@@ -1,7 +1,8 @@
 ---
 title: Facebook's New Instagram for Kids
 date: '2021-06-26'
-categories: []
+categories:
+  - src/data/categories/current-events.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
