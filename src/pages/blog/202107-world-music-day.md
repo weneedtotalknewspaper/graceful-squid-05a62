@@ -12,7 +12,6 @@ template: post
 ---
 During the global coronavirus pandemic which shook all of our lives, the music industry was halted. Concerts were canceled, bands stopped performing, and the future of the music industry looked dreary. I was inspired, though, by the speed at which musicians adapted. Bands in New York City playing in their apartments through their windows for onlookers on the streets below went viral. Musicians such as Coldplay, and my personal favorite, Rex Orange County, hosted free instagram live concerts. Other famous musicians such as Charlie Puth and Travis Scott hosted paid virtual concerts. 
 
-
 Still, the end of the pandemic couldn’t come soon enough, and World Music Day 2021 (AKA Make Music Day)  will be a breath of fresh air. Founded by France’s Minister of Culture and a French Composer in 1982, the aim is to provide a day of free music to all. Amateur musicians are encouraged to showcase their talents. The holiday is usually accompanied by over 5,000 free outdoor concerts. The holiday has a global impact, with over 1,000 cities in 120 countries taking part. Over 85 US cities take part. 
 
 Make music day has a variety of interesting events. For example, Leaf Music, where musicians are encouraged to use leafs to make songs. According to the official Make Music Day website, “a humble leaf becomes a reed instrument like no other. Leaf playing has a long history in many nations around the world, including China, Cambodia, Australia, Brazil, Japan and Nepal...”  #MySongIsYourSong is a project to encourage artists to cover each other's songs, and “Over 200 artists participated in the inaugural #MySongIsYourSong for Make Music Day 2020” (Make Music Day). This Moment In Time is a beautiful project to honor the millions of lives lost due to the coronavirus pandemic by playing a gong in public spaces around the world for one hour, uninterrupted. Junko Phonics, a mix of arts, crafts, and music, is a project to make instruments from scratch. 
@@ -48,3 +47,12 @@ If you want to take part in world music day and your town is not included, that�
 While cultures around the world have their own individual and unique styles of music, World Music Day embodies unity. As people from nations around the world come together for a day of song, we’re all more connected than it seems at first glance. 
 
 Check out the link in the Call to Action section if you would like to participate!
+
+
+
+![](https://lh5.googleusercontent.com/xYSD1wo9vBoMTeyEzXOQVBmEtjM8VXCI4VIpwWfErgrh8K4lYZkNyldXkF33WRo6ncD7FmMTf67\_QkNF-juJblaha8FLK8aTjKkBMao5PVsRSsOteZFksrP-y3YwnVtx7ZB2Tc0t)
+
+
+(AP Photo/Kathy Willens)
+
+Make Music Day- New York in Brookyn’s Ditmas Park Neighborhood. Musicians played jazz, classical music, and other genres, right from their houses. 
