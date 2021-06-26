@@ -9,6 +9,7 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/person-0cwaca1es.json
+subtitle: 'Picture Source: WIkipedia'
 ---
 Rene Magritte was born in Lessines, Belgium on November 21, 1898. His father was a tailor. His mother was a milliner, and died when Magritte was 14. Magritte was also the oldest of three boys. Rene began his art studies in the Académie des Beaux-Arts in Brussels (Royal Academy of Fine Arts of Brussels). He studied there from1916 to 1918. Magritte was the student of the world known painter, Victor Servranckx. However, Magritte became unimpressed with the institution, although he was shown to develop styles such as cubism and futurism. Eventually, Magritte began to make money by reproducing paintings by famous artists. Several of his art pieces from the early 1920s were influenced by Pablo Picasso. His career finally launched in 1927, when he had his first solo exhibition, at the Galerie Le Centaure in Brussels. As he started gaining popularity, he became famous for  surrealism, furthermore his interesting images. His paintings often included humorous illustrations. Magritte had a gift for painting simple images and ordinary objects and giving them distinctive meanings. His precision and how he invoked reality through his paintings was also one of the many reasons people adored him. Rene Magritte is now one of the most prominent Surrealist\* painters.  
 
