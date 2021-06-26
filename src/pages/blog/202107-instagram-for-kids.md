@@ -10,6 +10,7 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/person-knhhcyz5a.json
+thumb_image: images/5f3eea6889aff80028ab702f.jpeg
 ---
 In March of 2021, it was revealed that Facebook had plans to make a version of Instagram for children under 13. Currently, Instagram does not allow children under 13 to use the platform, but many simply lie about their age in order to gain access to the platform. Facebook says that this new site will provide a safe place for kids to interact away from content on Instagram that may be inappropriate for young children. The site will include parental supervision and not display ads. 
 
