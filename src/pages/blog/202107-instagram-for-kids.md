@@ -1,6 +1,5 @@
 ---
 title: Facebook's New Instagram for Kids
-subtitle: lorem-ipsum
 date: '2021-06-26'
 categories: []
 tags: []
