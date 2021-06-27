@@ -1,6 +1,5 @@
 ---
 title: Vaccine Rollout
-subtitle: lorem-ipsum
 date: '2021-06-27'
 categories:
   - src/data/categories/current-events.yaml
