@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: In Honor of Pride Month
 subtitle: lorem-ipsum
 date: '2021-06-27'
 categories: []
