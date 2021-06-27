@@ -8,6 +8,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 template: post
+author: src/data/team/person-rruw0fxu9.json
 ---
 The standard of beauty is produced by patriarchy and capitalism. The more difficult it is to reach this standard, the better for these two, because then we feel insecure with our appearance, we develop low self-esteem, submitting ourselves to aesthetic procedures as well as excessive and unnecessary consumption of a series of products. A conclusion that is practically instantaneous would be the description of the aesthetic qualities currently understood and extolled as beautiful, explained by the physical attributes of individuals considered beautiful by society in general, constantly conveyed by the media.
 
