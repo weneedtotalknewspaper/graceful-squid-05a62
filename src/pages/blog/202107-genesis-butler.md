@@ -3,7 +3,6 @@ title: 'Genesis Butler: 14-Year Old Activist Using Her Voice to Better the Plane
 date: '2021-06-26'
 categories: []
 tags: []
-excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
