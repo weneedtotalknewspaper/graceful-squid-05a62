@@ -5,7 +5,7 @@ date: '2021-06-27'
 categories:
   - src/data/categories/current-events.yaml
 tags: []
-excerpt: lorem-ipsum
+excerpt: '\TW: LGBTQ Discrimination and abuse'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
