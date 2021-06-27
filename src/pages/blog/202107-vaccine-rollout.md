@@ -10,6 +10,7 @@ image_position: top
 template: post
 author: src/data/team/shrinidhi-thiruvengadam.yaml
 thumb_image: images/EBT-L-RAZAVAXX-03XX-27.jpeg
+image: images/EBT-L-RAZAVAXX-03XX-27.jpeg
 ---
 In the United States, many people over the age of 18 still harbor a level of resistance towards receiving the vaccine due to the fact that all COVID-19 vaccines are currently non-FDA approved. Following Pfizer’s announcement in May to seek approval from the FDA for their COVID-19 vaccines for ages 16 and up, Moderna has also announced that it will start the approval for people 18 and up. An approval could help bolster vaccination rates - according to Kaiser Family Foundation’s latest vaccine monitor report -  due to the fact that nearly a third of unvaccinated adults are waiting for a full FDA approval of a vaccine before getting it. In an interview with *ABC*, Dr. William Moss, executive director of the International Vaccine Access Center at the Johns Hopkins Bloomberg School of Public Health, indicated that there are some caveats to waiting for the vaccines to become FDA-approved due to the “rigorous” nature of the approval process. The authorization process, in comparison, is shorter than the amount of time needed for approval (at least two months of follow-up data from phase 3 clinical trials), whereas six months are required for approval. But how has vaccine rollout been despite the lack of FDA approval? 
 
