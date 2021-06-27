@@ -9,6 +9,7 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/shrinidhi-thiruvengadam.yaml
+thumb_image: images/download (20).jpeg
 ---
 On January 22nd, 1973, the Supreme Court decided through a (7-2) ruling that “unduly restrictive state regulation of abortion in unconstitutional.” This decision, known as *Roe v. Wade*, arose as a result of Jane Roe, a name used to safeguard the identity of the plaintiff Norma McCorvey, taking federal action against the district attorney of Dallas County, Henry Wade. Roe argued that the state laws regarding the illegal nature of abortion attempted to inhibit her right to personal privacy, which was protected under the First, Fourth, Fifth, and Ninth Amendments. The Supreme Court decision was eventually made on the basis that the Fourteenth Amendment defends the right to privacy against the state, violating a woman’s right to choose whether to have an abortion or not. The case concluded that the state may not control a decision on abortion until the second trimester, in which regulations may be instituted on abortion that are related to maternal health - once the the third trimester has begun, the state may prohibit abortions entirely as long as the law contains exceptions for which an abortion is needed to protect the life or health of the mother.  
 
