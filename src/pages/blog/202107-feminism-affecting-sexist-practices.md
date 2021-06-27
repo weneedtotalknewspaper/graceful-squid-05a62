@@ -1,6 +1,6 @@
 ---
 title: How Feminism is Affecting Sexist Practices
-subtitle: lorem-ipsum
+subtitle: 'TW: non-graphic mentions of sexual abuse and descriptions of abuse and sexism'
 date: '2021-06-27'
 categories: []
 tags: []
