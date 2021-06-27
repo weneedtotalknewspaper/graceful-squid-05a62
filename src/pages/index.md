@@ -23,7 +23,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Check out our May edition!
+      - title: Check out our July edition!
         content: >
           Featuring articles on the Amazon union vote, anti-trans bills, and the
           second wave of COVID in India!
