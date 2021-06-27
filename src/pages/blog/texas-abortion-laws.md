@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Texas Abortion Laws
 subtitle: lorem-ipsum
 date: '2021-06-27'
 categories: []
