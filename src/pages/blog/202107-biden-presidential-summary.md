@@ -8,6 +8,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 template: post
+author: src/data/team/person-ggh5jtzes.json
 ---
 It has been over 100 days since Joe Biden’s inauguration into the White House as the 46th president of the United States of America. In the span of Biden’s presidency so far, a lot of changes have been made which anges from policy reversals, overturning Trump’s policies, to  taking executive actions to further his own presidential agenda. 
 ![](https://lh5.googleusercontent.com/Qggii2BrOFZDSonC2E1W5I7rC348zPHPrPJVADx2vSwS2jNHpSKfj17LJoYHklb3oCa3l0OS4b4QfDg3XUdXLhSyqHWUqzDt5njwOZFgiYW3Wz3d-a8Dnc8apxBMkjaH_zSNigQT)
