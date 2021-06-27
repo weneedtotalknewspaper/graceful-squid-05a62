@@ -1,6 +1,6 @@
 ---
 title: In Honor of Pride Month
-subtitle: lorem-ipsum
+subtitle: 'TW: LGBTQ Discrimination and abuse'
 date: '2021-06-27'
 categories: []
 tags: []
