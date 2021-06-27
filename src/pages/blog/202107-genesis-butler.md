@@ -1,7 +1,8 @@
 ---
 title: 'Genesis Butler: 14-Year Old Activist Using Her Voice to Better the Planet'
 date: '2021-06-26'
-categories: []
+categories:
+  - src/data/categories/spotlight.yaml
 tags: []
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
