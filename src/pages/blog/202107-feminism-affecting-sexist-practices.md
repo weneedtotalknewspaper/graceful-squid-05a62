@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: How Feminism is Affecting Sexist Practices
 subtitle: lorem-ipsum
 date: '2021-06-27'
 categories: []
