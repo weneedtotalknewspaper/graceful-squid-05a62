@@ -4,5 +4,6 @@
     "first_name": "Grace",
     "last_name": "Huang",
     "photo_alt": "lorem-ipsum",
-    "type": "person"
+    "type": "person",
+    "photo": "images/staff image (2).png"
 }
