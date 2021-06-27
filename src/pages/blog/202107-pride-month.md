@@ -11,6 +11,7 @@ image_alt: lorem-ipsum
 image_position: right
 template: post
 author: src/data/team/barsha-parajuli.yaml
+thumb_image: images/pasted image 0 (13).png
 ---
 Every June, millions of people part of the LGBTQ+ community and their allies gather to celebrate the existence and beauty of different forms of love and connection. This month of wholesome, deserving support was initiated to honor the 1969 Stonewall Uprising in Manhattan, and soon turned into a movement to push forward the idea of equality of all people regardless of race, sex, or sexual orientation. 
 
