@@ -9,6 +9,7 @@ image_alt: lorem-ipsum
 image_position: right
 template: post
 author: src/data/team/deetya-adikhari.yaml
+thumb_image: images/pasted image 0 (12).png
 ---
 Time and time again, capitalism, by nature, exploits marginalized communities by transforming them into mere markets, and selling them back to these communities as a commodity. Rainbow capitalism, the innate commercialization of LGBTQ+ movements, cheapens the meaning of pride month and the LGBTQ+ community. Many people are unaware of the hardships queer people of color went through in order to make pride month a reality, though this month is coincidentally meant to commemorate them. It has been found that an estimated 20 to 30 percent of the LGBTQ+ community abuses substances, compared to about 9 percent of the population as a whole and despite this,  June is perhaps the biggest promotional season for the alcohol industry (“The LGBTQ Community and Addiction”).
 
