@@ -11,6 +11,7 @@ image_position: top
 template: post
 author: src/data/team/person-kq9myrmtx.json
 thumb_image: images/gg.jpeg
+image: images/gg.jpeg
 ---
 Feminist movements in the world started over a hundred years ago. Society has taken great strides towards the equality of men and women. Governments across the globe have established laws and regulations to ensure fair and equal treatment of women but that isn’t enough yet for communities that have been built on hundreds of years of patriarchy and misogyny.Men today are also trying to be of help, like Arunachalam Muruganantham, also known as *pad-man*, who created a machine to produce sanitary napkins at a low cost to help spread awareness about menstrual hygiene in rural India. Many young men today are also trying to educate themselves on sexism and more men today are feminist unlike their predecessors. Today, because of the great things all of these people did, more and more people are taking up the mantle and fighting for a better world for women.
 
