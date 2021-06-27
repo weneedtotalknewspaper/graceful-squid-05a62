@@ -1,6 +1,5 @@
 ---
 title: Pride or Greed? The Double-Sided Nature of Rainbow Capitalism
-subtitle: lorem-ipsum
 date: '2021-06-27'
 categories: []
 tags: []
