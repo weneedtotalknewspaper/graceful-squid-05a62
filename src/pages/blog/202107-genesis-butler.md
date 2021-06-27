@@ -6,7 +6,7 @@ categories:
 tags: []
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-image_position: top
+image_position: right
 template: post
 thumb_image: images/pasted image 0 (11).png
 ---
