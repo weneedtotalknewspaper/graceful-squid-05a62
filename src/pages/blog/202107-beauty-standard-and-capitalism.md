@@ -1,6 +1,5 @@
 ---
 title: Beauty Standards and Capitalism
-subtitle: lorem-ipsum
 date: '2021-06-27'
 categories: []
 tags: []
