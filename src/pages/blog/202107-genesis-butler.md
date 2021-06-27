@@ -9,6 +9,7 @@ image_alt: lorem-ipsum
 image_position: right
 template: post
 thumb_image: images/pasted image 0 (11).png
+image: images/pasted image 0 (11).png
 ---
 “We do not inherit the earth from our ancestors; we borrow it from our children. Please consider my generation and future generations, and know that we’re worried about our future on this planet, and we’re looking for adults to help,” said the 10-year old veganism activist Genesis Butler passionately near the conclusion of her TEDx speech. This inspiring speech took place in 2017, titled “A 10-year old's vision for healing the planet.” In the summer of 2021, four years after the delivery of her TEDx talk, Genesis’s arguments for animal protection have only grown more compelling and inspiring for the younger generation to hear.
 
