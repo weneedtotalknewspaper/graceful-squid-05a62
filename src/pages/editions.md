@@ -28,7 +28,7 @@ sections:
   - type: grid_section
     title: Past Editions
     grid_items:
-      - title: lorem-ipsuma
+      - title: 'lorem-ipsum '
         subtitle: lorem-ipsum
         title_align: left
         content: >-
