@@ -198,5 +198,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+    background_image: images/WNTT May 2021.jpg
 template: advanced
 ---
