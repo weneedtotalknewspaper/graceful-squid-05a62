@@ -29,7 +29,7 @@ sections:
     title: Past Editions
     grid_items:
       - title: May 2021
-        subtitle: 'Featuring articles on '
+        subtitle: Featuring a
         title_align: left
         content: >-
           ## Lorem ipsum
