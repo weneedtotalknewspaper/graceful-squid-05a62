@@ -28,20 +28,6 @@ sections:
   - type: grid_section
     title: Past Editions
     grid_items:
-      - title: May 2021
-        subtitle: Featuring articles on COVID in India and anti-trans bills in the US
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        type: grid_item
-        image: images/WNTT May 2021.jpg
       - title: April 2021
         subtitle: >-
           Featuring articles on AAPI hate crimes and Queer identities during
@@ -193,6 +179,20 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+      - title: May 2021
+        subtitle: Featuring articles on COVID in India and anti-trans bills in the US
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        image: images/WNTT May 2021.jpg
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
