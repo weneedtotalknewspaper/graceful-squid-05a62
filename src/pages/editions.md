@@ -185,7 +185,8 @@ sections:
         content_align: left
         actions:
           - label: ' '
-            url: lorem-ipsum
+            url: >-
+              https://drive.google.com/file/d/1HczJyhGlh3c2WDCtrpNtby2xMgpL03uS/view
             style: link
             has_icon: true
             icon: arrow-right
