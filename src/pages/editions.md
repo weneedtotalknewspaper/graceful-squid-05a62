@@ -29,7 +29,7 @@ sections:
     title: Past Editions
     grid_items:
       - title: May 2021
-        subtitle: Featuring ang
+        subtitle: Featuring articles on COVID in India and anti-trans bills in the US
         title_align: left
         content: >-
           ## Lorem ipsum
