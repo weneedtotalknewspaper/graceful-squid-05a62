@@ -34,7 +34,7 @@ sections:
             icon: arrow-right
             icon_position: right
             url: /editions/
-        image: images/July wntt flyer.png
+        image: images/July wntt flyer (1).png
         media_position: right
         media_width: fifty
     feature_padding_vert: large
