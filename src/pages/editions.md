@@ -41,6 +41,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/WNTT May 2021.jpg
       - title: April 2021
         subtitle: >-
           Featuring articles on AAPI hate crimes and Queer identities during
