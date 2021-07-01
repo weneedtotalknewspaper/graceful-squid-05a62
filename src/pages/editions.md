@@ -28,7 +28,7 @@ sections:
   - type: grid_section
     title: Past Editions
     grid_items:
-      - title: M002
+      - title: May 2021
         subtitle: lorem-ipsum
         title_align: left
         content: >-
