@@ -20,6 +20,29 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
+      - title: Grace Huang
+        subtitle: Managing Editor
+        title_align: center
+        content_align: left
+        actions:
+          - label: Read More
+            url: /authors/grace-huang
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/staff image (2).png
       - title: Bruktawit Fisseha
         subtitle: History Editor
         title_align: center
@@ -399,29 +422,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/team/filler.jpg
-      - title: Grace Huang
-        subtitle: Managing Editor
-        title_align: center
-        content_align: left
-        actions:
-          - label: Read More
-            url: /authors/grace-huang
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/staff image (2).png
     grid_cols: four
     align: center
     background_color: none
