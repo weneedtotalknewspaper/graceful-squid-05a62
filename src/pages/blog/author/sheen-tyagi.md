@@ -2,7 +2,7 @@
 title: lorem-ipsum
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Sheen Tyagi
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
