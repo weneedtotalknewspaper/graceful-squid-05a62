@@ -24,8 +24,7 @@ sections:
         content_align: left
         actions:
           - label: Apply Now
-            url: >-
-              https://docs.google.com/forms/d/e/1FAIpQLSco5i8l-NXIVnitQbVmk6l4pLgeWe62k_juOgDxy-d_2VdpYw/formResponse
+            url: 'https://forms.gle/APVg3h9BKi5mMH5W6'
             style: link
             has_icon: true
             icon: arrow-right
