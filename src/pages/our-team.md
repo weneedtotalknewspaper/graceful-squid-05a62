@@ -410,7 +410,7 @@ sections:
         type: grid_item
         image: images/team/filler.jpg
       - title: Sheen Tyagi
-        subtitle: lorem-ipsum
+        subtitle: Graphic Designer
         title_align: left
         content: >-
           ## Lorem ipsum
