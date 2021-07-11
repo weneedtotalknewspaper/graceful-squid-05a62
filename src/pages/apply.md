@@ -61,7 +61,7 @@ sections:
           Previous editing experience is recommended.
         content_align: left
         actions:
-          - url: 'https://forms.gle/2rbnWX4RrXFrXNRg9'
+          - url: 'https://forms.gle/APVg3h9BKi5mMH5W6'
             style: link
             has_icon: true
             icon: arrow-right
