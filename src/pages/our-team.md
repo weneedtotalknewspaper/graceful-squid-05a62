@@ -144,6 +144,29 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/staff image (3).png
+      - title: Tanisha Lanka
+        subtitle: Graphic Designer
+        title_align: center
+        content_align: left
+        actions:
+          - label: Read More
+            url: lorem-ipsum
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/staff image (4).png
       - title: Anika Chandra
         subtitle: Graphic Designer
         title_align: center
@@ -432,29 +455,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/team/filler.jpg
-      - title: Tanisha Lanka
-        subtitle: Graphic Designer
-        title_align: center
-        content_align: left
-        actions:
-          - label: Read More
-            url: lorem-ipsum
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/staff image (4).png
     grid_cols: four
     align: center
     background_color: none
