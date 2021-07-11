@@ -27,8 +27,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/staff image (2).png
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     blog_feed_cols: three
     enable_cards: false
     show_recent: false
