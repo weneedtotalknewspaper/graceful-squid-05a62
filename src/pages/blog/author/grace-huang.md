@@ -4,17 +4,14 @@ excerpt: lorem-ipsum
 sections:
   - title: Grace Huang
     subtitle: Managing Editor
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Grace Huang (she/her) is a 16 year old currently living in the United
+      States. Attending a STEM-focused high school, her passion lies at the
+      intersection of computer science and biology. In her free time, she enjoys
+      creating art, watching game streaming, and listening to music. To pursue
+      her interest in journalism, she participated in her school's science
+      journal and literary magazine, and finally joined We Need to Talk to
+      amplify the voice of Gen Z through the power of words.
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
