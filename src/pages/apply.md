@@ -49,7 +49,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-      - title: Managing Editors
+      - title: Section Editors
         title_align: left
         content: >
           Managing Editors include Managing Editor and Copy Editor. These
