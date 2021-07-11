@@ -79,32 +79,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Social Media Managers
-        title_align: left
-        content: >
-          Social Media Managers will be in charge of maintaining and updating
-          our social media accounts, including Twitter, Instagram, and Facebook.
-          It will require minimal Canva experience, along with knowledge of how
-          to post on social media. To apply, you will be required to answer 2
-          essay questions in English. 
-        content_align: left
-        actions:
-          - url: 'https://forms.gle/XR3UUTo2tFmVXagE8'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - title: Head of IT
         title_align: left
         content: >
