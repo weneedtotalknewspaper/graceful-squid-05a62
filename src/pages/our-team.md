@@ -433,7 +433,7 @@ sections:
         type: grid_item
         image: images/staff image (3).png
       - title: Tanisha Lanka
-        subtitle: lorem-ipsum
+        subtitle: Graphic Designer
         title_align: left
         content: >-
           ## Lorem ipsum
