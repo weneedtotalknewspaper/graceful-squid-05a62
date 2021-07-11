@@ -3,7 +3,7 @@ title: lorem-ipsum
 excerpt: lorem-ipsum
 sections:
   - title: Sheen Tyagi
-    subtitle: lorem-ipsum
+    subtitle: Graphic Designer
     content: >-
       ## Lorem ipsum
 
