@@ -52,15 +52,14 @@ sections:
       - title: Section Editors
         title_align: left
         content: >
-          Managing Editors include Managing Editor and Copy Editor. These
-          positions will work closely with the Editor-in-Chief to oversee the
-          publication of each edition. They will be in charge of editing several
-          articles, but will not be required to write articles of their own.
-          They are also required to attend 1 monthly meeting. To apply, you will
-          be required to answer two short essay questions and submit one piece
-          of writing that you have previously completed. This piece can be an
-          article, short story, or essay completed for school. Previous editing
-          experience is recommended. 
+          Section Editors include the Spotlight Editor and the Art Editor. They
+          will be required to write one article for their section if there are
+          no submitted articles that month. They will also be required to edit
+          all articles in the section and attend the 1 monthly meeting. To
+          apply, you will be required to answer two short essay questions and
+          submit one piece of writing that you have previously completed. This
+          piece can be an article, short story, or essay completed for school.
+          Previous editing experience is recommended.
         content_align: left
         actions:
           - url: 'https://forms.gle/2rbnWX4RrXFrXNRg9'
