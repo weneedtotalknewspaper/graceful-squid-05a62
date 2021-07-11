@@ -82,19 +82,6 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-      - title: Vishakha Singh
-        subtitle: Opinion Editor
-        title_align: center
-        image: images/team/vishakha-singh.jpg
-        image_position: top
-        actions:
-          - label: Read More
-            url: /blog/author/vishakha-singh
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
       - title: Sanjana Mittal
         subtitle: Opinion Editor
         title_align: center
