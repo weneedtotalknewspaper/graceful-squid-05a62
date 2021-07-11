@@ -434,7 +434,7 @@ sections:
         image: images/staff image (3).png
       - title: Tanisha Lanka
         subtitle: Graphic Designer
-        title_align: left
+        title_align: center
         content_align: left
         actions:
           - label: lorem-ipsum
