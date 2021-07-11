@@ -400,7 +400,7 @@ sections:
         type: grid_item
         image: images/team/filler.jpg
       - title: Grace Huang
-        subtitle: lorem-ipsum
+        subtitle: Managing Editor
         title_align: left
         content: >-
           ## Lorem ipsum
