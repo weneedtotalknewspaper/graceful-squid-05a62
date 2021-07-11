@@ -26,7 +26,7 @@ sections:
         content_align: left
         actions:
           - label: Read More
-            url: /authors/grace-huang
+            url: blog/authors/grace-huang
             style: link
             has_icon: true
             icon: arrow-right
