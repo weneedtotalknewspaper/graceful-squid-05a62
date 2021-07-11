@@ -411,7 +411,7 @@ sections:
         image: images/team/filler.jpg
       - title: Sheen Tyagi
         subtitle: Graphic Designer
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
