@@ -2,7 +2,7 @@
 title: lorem-ipsum
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Grace Huang
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
