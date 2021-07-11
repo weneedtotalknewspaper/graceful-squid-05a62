@@ -87,7 +87,7 @@ sections:
           questions.
         content_align: left
         actions:
-          - url: 'https://forms.gle/j3tqVramDzH8kbrR9'
+          - url: 'https://forms.gle/oyu7F5UekW69Zh8N9'
             style: link
             has_icon: true
             icon: arrow-right
