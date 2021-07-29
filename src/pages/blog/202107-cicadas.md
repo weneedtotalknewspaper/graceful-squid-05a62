@@ -9,6 +9,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 template: post
+author: src/data/team/person-ggh5jtzes.json
 ---
 What makes Brood X cicadas different from other cicadas is that they are periodical insects, they feed on plant fluids both below and above ground, and are the largest brood of 17-year cicadas. Brood X are found mainly in Indiana, Tennessee, Pennsylvania, and northern Virginia. 
 
