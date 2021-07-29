@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Minor Feelings: An Asian American Reckoning'
 subtitle: lorem-ipsum
 date: '2021-07-29'
 categories: []
