@@ -10,6 +10,7 @@ image_position: right
 template: post
 author: src/data/team/person-5z1od7sfb.json
 thumb_image: images/pasted image 0 (14).png
+image: images/pasted image 0 (14).png
 ---
 
 ![](https://lh3.googleusercontent.com/AyBzMGloQIJBnbVB7QLXPMm1GVSBihG4g05Te_rW3UALeOOjo0Gws5SegnTi1F10zorGAL7oZuJWPAKpAFTyoQYK0Tcu-z2WMXdTaP4Gvxx-6fe66JF_YfE_rG_OZNClbdIhCgZl)
