@@ -34,7 +34,7 @@ sections:
             icon: arrow-right
             icon_position: right
             url: /editions/
-        image: images/June wntt flyer.png
+        image: images/we need to talk presents.png
         media_position: right
         media_width: fifty
     feature_padding_vert: large
