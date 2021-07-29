@@ -12,6 +12,7 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/shrinidhi-thiruvengadam.yaml
+thumb_image: images/download (23).jpeg
 ---
 When Cathy Park Hong, author of the fiery *Minor Feelings*, was in the ninth grade, her teacher insisted that she and her classmates would fall in love with the *Catcher in the Rye*, just as a gamut of established literary critics had for decades upon decades. She recalls how “I kept waiting to fall in love with Salinger’s cramped, desultory writing until I was annoyed. Holden Caulfield was just some rich prep school kid who cursed like an old man, spent money like water, and took taxis everywhere.” Hong critiques the near-obsessive confluence between American escapism and the nostalgia of childhood, manifesting in several multimedia facets. She finds it quite paradoxical that her youth, while fully American, did not have a tinge of the sensationalized “innocence of youth” that we glorify in films, television shows, and books: her childhood was acutely unstable, rife with the challenges of learning English and the frequent racist rhetoric and attacks that her family experienced.
 
