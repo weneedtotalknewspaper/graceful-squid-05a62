@@ -25,8 +25,8 @@ sections:
     features:
       - title: Check out our July edition!
         content: >
-          Featuring articles on pride month, rainbow capitalism, and vaccine
-          progress!
+          Featuring articles on black women at the Olympics and the delta
+          variant!
         actions:
           - label: Learn More
             style: primary
