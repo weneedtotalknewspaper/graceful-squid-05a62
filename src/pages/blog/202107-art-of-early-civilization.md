@@ -12,6 +12,7 @@ image_position: right
 template: post
 author: src/data/team/person-0cwaca1es.json
 thumb_image: images/download (22).jpeg
+image: images/download (22).jpeg
 ---
 **Art of the Fertile Crescent**
 
