@@ -5,7 +5,6 @@ categories:
   - src/data/categories/art.yaml
   - src/data/categories/art.yaml
 tags: []
-excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: right
