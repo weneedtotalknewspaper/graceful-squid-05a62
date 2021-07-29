@@ -8,7 +8,7 @@ tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-image_position: top
+image_position: right
 template: post
 author: src/data/team/person-0cwaca1es.json
 thumb_image: images/download (22).jpeg
