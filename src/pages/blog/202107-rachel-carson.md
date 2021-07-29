@@ -9,6 +9,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 template: post
+author: src/data/team/person-5z1od7sfb.json
 ---
 
 ![](https://lh3.googleusercontent.com/AyBzMGloQIJBnbVB7QLXPMm1GVSBihG4g05Te_rW3UALeOOjo0Gws5SegnTi1F10zorGAL7oZuJWPAKpAFTyoQYK0Tcu-z2WMXdTaP4Gvxx-6fe66JF_YfE_rG_OZNClbdIhCgZl)
