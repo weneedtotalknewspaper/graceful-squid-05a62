@@ -23,7 +23,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Check out our June edition!
+      - title: Check out our July edition!
         content: >
           Featuring articles on pride month, rainbow capitalism, and vaccine
           progress!
