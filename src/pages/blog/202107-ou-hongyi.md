@@ -12,6 +12,7 @@ title: >-
   Chinese activist Ou Hongyi strikes for climate in the country that emits the
   most greenhouse gases
 author: src/data/team/rachel-lewis.yaml
+thumb_image: images/5384.jpeg
 ---
 
 
