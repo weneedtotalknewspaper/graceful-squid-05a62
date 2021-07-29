@@ -8,6 +8,9 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 template: post
+title: >-
+  Chinese activist Ou Hongyi strikes for climate in the country that emits the
+  most greenhouse gases
 ---
 ## Lorem ipsum
 
