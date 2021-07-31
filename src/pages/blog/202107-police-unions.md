@@ -1,6 +1,6 @@
 ---
 title: 'Police Unions: Labor Above Law'
-subtitle: lorem-ipsum
+subtitle: 'TW: domestic abuse, depictions of anti-black violence'
 date: '2021-07-31'
 categories: []
 tags: []
