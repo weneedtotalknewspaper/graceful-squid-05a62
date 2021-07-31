@@ -9,6 +9,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 template: post
+author: src/data/team/person-ggh5jtzes.json
 ---
 The world is now facing another strain or variant of COVID-19, known as the Delta variant. The Delta variant originated in India in December 2020 and is now spreading world wide after being first being detected in the United States in March 2021. “Evidence suggests that it is potentially more transmissible than other variants."
 
