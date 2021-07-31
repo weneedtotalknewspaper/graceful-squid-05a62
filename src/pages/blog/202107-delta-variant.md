@@ -2,7 +2,8 @@
 title: Delta Variant
 subtitle: lorem-ipsum
 date: '2021-07-31'
-categories: []
+categories:
+  - src/data/categories/current-events.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
