@@ -210,8 +210,7 @@ sections:
         actions:
           - label: lorem-ipsum
             url: >-
-              Yes, I have heard that too.  Rampur distillery is one of the
-              largest in India.
+              https://drive.google.com/file/d/1zObbdtKk9PX3OC3j3QaOcawNaqiSi4CZ/view?usp=sharing
             style: link
             has_icon: false
             icon: arrow-left
