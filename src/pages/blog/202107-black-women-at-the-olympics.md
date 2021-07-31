@@ -10,6 +10,7 @@ image_position: right
 template: post
 author: src/data/team/person-q71b6we25.json
 thumb_image: images/1330017386.0.jpg
+image: images/1330017386.0.jpg
 ---
 The Olympics have been in the news recently, but not because of the world-class athletes participating. Several organizations related to the Olympic Games have come under fire for actions widely seen as racist, especially to women of color.
 
