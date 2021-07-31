@@ -7,7 +7,7 @@ categories:
 tags: []
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-image_position: top
+image_position: right
 template: post
 author: src/data/team/person-i8afcoxfp.json
 thumb_image: images/HEH5GHX5LBBWNC4MCINYEZRHEU.jpeg
