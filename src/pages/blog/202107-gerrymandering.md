@@ -9,6 +9,7 @@ image_alt: lorem-ipsum
 image_position: top
 template: post
 author: src/data/team/person-knhhcyz5a.json
+thumb_image: images/26gerrymandering-videoSixteenByNineJumbo1600.jpeg
 ---
 Every ten years, the United States holds a census, which counts the amount of people that live in the US, among other information such as where they live. One of the most important things the census helps us determine is districts. By knowing where people live in a state, politicians can divide up states into congressional districts, with each district electing one representative to the house of representatives. However, the district lines are often drawn unfairly. This practice is called gerrymandering.
 
