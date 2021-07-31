@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Activism as a Platform for Modern Art
 subtitle: lorem-ipsum
 date: '2021-07-31'
 categories: []
