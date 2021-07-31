@@ -28,6 +28,30 @@ sections:
   - type: grid_section
     title: Past Editions
     grid_items:
+      - title: June 2021
+        subtitle: Featuring articles on pride month and rainbow capitalism.
+        title_align: left
+        content_align: left
+        actions:
+          - label: ' '
+            url: >-
+              https://drive.google.com/file/d/1zObbdtKk9PX3OC3j3QaOcawNaqiSi4CZ/view?usp=sharing
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: true
+        type: grid_item
+        image: images/WNTT June 2021.png
       - title: May 2021
         subtitle: Featuring articles on COVID in India and anti-trans bills in the US
         title_align: left
@@ -203,30 +227,6 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: June 2021
-        subtitle: Featuring articles on pride month and rainbow capitalism.
-        title_align: left
-        content_align: left
-        actions:
-          - label: ' '
-            url: >-
-              https://drive.google.com/file/d/1zObbdtKk9PX3OC3j3QaOcawNaqiSi4CZ/view?usp=sharing
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: true
-        type: grid_item
-        image: images/WNTT June 2021.png
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
