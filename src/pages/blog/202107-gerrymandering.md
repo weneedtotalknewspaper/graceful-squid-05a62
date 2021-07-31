@@ -1,6 +1,5 @@
 ---
 title: 'Gerrymandering: What It Is and the Need for Reform'
-subtitle: lorem-ipsum
 date: '2021-07-31'
 categories: []
 tags: []
