@@ -1,7 +1,8 @@
 ---
 title: 'Gerrymandering: What It Is and the Need for Reform'
 date: '2021-07-31'
-categories: []
+categories:
+  - src/data/categories/opinion.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
