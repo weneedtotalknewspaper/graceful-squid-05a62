@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Delta Variant
 subtitle: lorem-ipsum
 date: '2021-07-31'
 categories: []
