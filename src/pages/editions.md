@@ -213,7 +213,7 @@ sections:
               https://drive.google.com/file/d/1zObbdtKk9PX3OC3j3QaOcawNaqiSi4CZ/view?usp=sharing
             style: link
             has_icon: true
-            icon: arrow-left
+            icon: arrow-right
             icon_position: right
             new_window: false
             no_follow: false
