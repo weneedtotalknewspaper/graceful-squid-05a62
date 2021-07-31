@@ -8,6 +8,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 template: post
+author: src/data/team/person-knhhcyz5a.json
 ---
 ## Lorem ipsum
 
