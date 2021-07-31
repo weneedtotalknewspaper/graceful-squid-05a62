@@ -212,7 +212,7 @@ sections:
             url: >-
               https://drive.google.com/file/d/1zObbdtKk9PX3OC3j3QaOcawNaqiSi4CZ/view?usp=sharing
             style: link
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
