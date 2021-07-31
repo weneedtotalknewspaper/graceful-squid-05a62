@@ -204,7 +204,7 @@ sections:
         image_align: left
         image_has_padding: true
       - title: June 2021
-        subtitle: lorem-ipsum
+        subtitle: Featuring articles on pride month and rainbow capitalism.
         title_align: left
         content: >-
           ## Lorem ipsum
