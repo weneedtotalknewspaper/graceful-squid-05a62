@@ -208,7 +208,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: '  '
             url: >-
               https://drive.google.com/file/d/1zObbdtKk9PX3OC3j3QaOcawNaqiSi4CZ/view?usp=sharing
             style: link
