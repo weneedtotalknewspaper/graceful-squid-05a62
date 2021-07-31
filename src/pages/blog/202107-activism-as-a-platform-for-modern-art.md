@@ -9,6 +9,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 template: post
+thumb_image: images/image (2).png
 ---
 The human mind, though capable of independent thought, is susceptible to the persuasive power of image. Throughout history, art influenced the grasp that rulers had on their empires. A strong example of this is Persepolis, the ceremonial capital of the First Persian Empire. The emperor at the time, Derius, used grandiose images of Persepolis to communicate with those living in conquered lands. These diverse groups of people were very impressed by depictions of considerable power and the ornate capital, thereby willingly giving tribute to Derius and strengthening his rule. Derius also imprinted his face on the currency so as to expose the people to a symbol of his rule, further cementing his power. 
 
