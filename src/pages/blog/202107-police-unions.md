@@ -9,6 +9,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 template: post
+author: src/data/team/person-i8afcoxfp.json
 ---
 In 2007, Oakland Police Officer Hector Jimenez fatally shot an unarmed 20-year-old man. 7 months later, he killed another unarmed man, shooting him three times in the back. Jimenez was rightfully fired, but reinstated quickly (Friedersdorf). In Pittsburg, similar fatal incidents occur routinely. According to Alex Zimmerman of the Pittsburgh City Paper: 
 
