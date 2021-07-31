@@ -2,7 +2,8 @@
 title: Activism as a Platform for Modern Art
 subtitle: lorem-ipsum
 date: '2021-07-31'
-categories: []
+categories:
+  - src/data/categories/art.yaml
 tags: []
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
